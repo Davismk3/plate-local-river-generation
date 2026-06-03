@@ -16,7 +16,7 @@ independent regional processing without a planet-wide generation pass.
 |:---:|:---:|:---:|
 | ![Continents](figures/continents.png) | ![Rivers](figures/rivers.png) | ![Final](figures/final.png) |
 
-**(a)** Plate-derived weight fields place land, mountains, island chains, hotspots, and plateaus.
+**(a)** Plate-derived weight fields place land (green), mountains (brown), island chains (blue), and plateaus (yellow).
 **(b)** Each river network is generated inside a straight-bordered geometric plate domain. Blue dots mark river sources, red dots mark sea-level outlets, yellow dots mark lakes at local minima, and pink lines mark river segments.
 **(c)** Final landmasses include continental warping, surface roughness, and climate classification.
 
