@@ -12,6 +12,19 @@ fields, and a bounded geometric domain for plate-local river preprocessing.
 River networks are generated and cached lazily per plate, allowing 
 independent regional processing without a planet-wide generation pass.
 
+| (a) Plate-derived continent fields | (b) Plate-local river networks | (c) Final continental output |
+|:---:|:---:|:---:|
+| ![Continents](figures/continents.png) | ![Rivers](figures/rivers.png) | ![Final](figures/final.png) |
+
+**(a)** Plate-derived weight fields place land, mountains, island chains, hotspots, and plateaus.
+**(b)** Each river network is generated inside a straight-bordered geometric plate domain. Blue dots mark river sources, red dots mark sea-level outlets, yellow dots mark lakes at local minima, and pink lines mark river segments.
+**(c)** Final landmasses include continental warping, surface roughness, and climate classification.
+
+This system is developed for use in a voxel video game featuring 
+cube-shaped planets as a deliberate design choice. The cube geometry 
+informs how plate domains are constructed and how river networks are 
+projected onto the planet surface.
+
 ## Documentation
 
 The full technical summary is available in
