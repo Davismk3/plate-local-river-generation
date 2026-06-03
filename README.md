@@ -32,7 +32,7 @@ The full technical summary is available in
 
 ## Additional Media
 
-Youtube Video Showing Results: link
+Youtube Video Showing Results: link \
 Discord Server: https://discord.gg/fPAwD7x4va
 
 ## License
