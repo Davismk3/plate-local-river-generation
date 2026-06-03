@@ -30,10 +30,10 @@ projected onto the planet surface.
 The full technical summary is available in
 [davis2026_plate_local_river_generation.pdf](davis2026_plate_local_river_generation.pdf).
 
-## Status
+## Additional Media
 
-Pre-alpha. Annotated source code will be added in a future release.
-A companion YouTube video and further documentation are in preparation.
+Youtube Video Showing Results: link
+Discord Server: https://discord.gg/fPAwD7x4va
 
 ## License
 
