@@ -28,7 +28,7 @@ projected onto the planet surface.
 ## Documentation
 
 The full technical summary is available in
-[davis2026_plate_local_river_generation.pdf](davis2026_plate_local_river_generation.pdf).
+[davis2026_plate_local_river_generation.pdf](davis2026_plate_local_river_generation.pdf). Code will be uploaded at a later time.
 
 ## Additional Media
 
