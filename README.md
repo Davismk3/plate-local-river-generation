@@ -11,7 +11,7 @@ This repository is currently a WIP.
 **Infinite flat world**
 ![Infinite flat world](figures/infinite_flat.gif)
 
-## Repository Architecture
+## (Anticipated) Repository Architecture
 
 ```
 plate-local-river-generation/
