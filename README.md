@@ -2,33 +2,41 @@
 
 **Michael K. Davis III** — June 2026
 
-A deterministic procedural world-generation system that produces coherent 
-continents and terrain-aware, downhill-flowing river networks without 
-precomputing an entire planet.
+A deterministic procedural world-generation system that produces continents and terrain-aware, downhill-flowing river networks without precomputing an entire planet. River geometry is generated lazily per continent, while terrain is evaluated pointwise on demand.
 
-Each tectonic plate is defined by a deterministic seed position serving a 
-dual purpose: continuous pointwise terrain evaluation through plate-derived 
-fields, and a bounded geometric domain for plate-local river preprocessing. 
-River networks are generated and cached lazily per plate, allowing 
-independent regional processing without a planet-wide generation pass.
+This repository is currently a WIP.
 
-| (a) Plate-derived continent fields | (b) Plate-local river networks | (c) Final continental output |
-|:---:|:---:|:---:|
-| ![Continents](figures/continents.png) | ![Rivers](figures/rivers.png) | ![Final](figures/final.png) |
+## Examples
 
-**(a)** Plate-derived weight fields place land (green), mountains (brown), island chains (blue), and plateaus (yellow).
-**(b)** Each river network is generated inside a straight-bordered geometric plate domain. Blue dots mark river sources, red dots mark sea-level outlets, yellow dots mark lakes at local minima, and pink lines mark river segments.
-**(c)** Final landmasses include continental warping, surface roughness, and climate classification.
+**Infinite flat world**
+![Infinite flat world](figures/infinite_flat.gif)
 
-This system is developed for use in a voxel video game featuring 
-cube-shaped planets as a deliberate design choice. The cube geometry 
-informs how plate domains are constructed and how river networks are 
-projected onto the planet surface.
+## Repository Architecture
+
+```
+plate-local-river-generation/
+├── davis2026_plate_local_river_generation.pdf
+├── README.md
+├── LICENSE
+├── figures/
+├── flat-infinite/
+│   ├── src/
+│   ├── examples/
+│   └── README.md
+├── cube-planet/
+│   ├── src/
+│   ├── examples/
+│   └── README.md
+└── sphere-planet/
+    ├── src/
+    ├── examples/
+    └── README.md
+```
 
 ## Documentation
 
 The full technical summary is available in
-[davis2026_plate_local_river_generation.pdf](davis2026_plate_local_river_generation.pdf). Code will be uploaded at a later time.
+[davis2026_plate_local_river_generation.pdf](davis2026_plate_local_river_generation.pdf).
 
 ## Additional Media
 
