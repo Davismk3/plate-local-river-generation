@@ -4,6 +4,8 @@
 
 A deterministic procedural world-generation system that produces continents and terrain-aware, downhill-flowing river networks without precomputing an entire planet. River geometry is generated lazily per continent, while terrain is evaluated pointwise on demand.
 
+This system was originally designed for a video game I am developing. I am currently generalizing and annotating the codebase to be non-specific to that video game's mechanics.
+
 This repository is currently a WIP.
 
 ## Examples
