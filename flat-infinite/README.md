@@ -6,7 +6,6 @@ This repository contains a flat, infinite-world implementation of a Plate-Local 
 
 ```text
 flat-infinite/
-├── ARCHITECTURE.md
 ├── README.md
 ├── requirements.txt
 └── src/
