@@ -1,8 +1,6 @@
 # Plate-Local River Generation Algorithm
 
-This repository contains a flat, infinite-world implementation of a Plate-Local River Generation Algorithm (PL-RGA). The method builds plate-local river networks from a low-resolution terrain grid, converts those networks into packed data, and uses that packed cache for fast pointwise terrain sampling.
-
-The approach is not specific to rivers. The same plate-local structure can be adapted for road networks, volcano placement, settlement placement, or other constrained topology features.
+This repository contains a flat, infinite-world implementation of a Plate-Local River Generation Algorithm (PL-RGA).
 
 ## Run
 
