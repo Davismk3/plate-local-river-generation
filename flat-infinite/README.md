@@ -18,5 +18,3 @@ python3 src/app/main.py
 ## Notes
 
 Pointwise functions are designed to stay Numba-compatible where performance matters. Platewise construction prioritizes readability and debuggability, then converts object-backed river data into packed arrays for fast terrain sampling.
-
-See [ARCHITECTURE.md](ARCHITECTURE.md) for the current module layout and data flow.
