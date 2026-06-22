@@ -4,6 +4,8 @@ This repository contains a flat, infinite-world implementation of a Plate-Local 
 
 Pointwise functions are designed to stay Numba-compatible where performance matters. Platewise construction prioritizes readability and debuggability, then converts object-backed river data into packed arrays for fast terrain sampling.
 
+NOTE: since this codebase was written in Python, various---sometimes confusing---techniques are used to get around Python's slow nature. You will see I tend to avoid dictionaries and classes. I may rewrite this whole project in C++, which would hopefully make things easier to read. 
+
 ## Architecture
 
 ```text
