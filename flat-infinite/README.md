@@ -1,4 +1,4 @@
-# Plate-Local River Generation Algorithm
+# Plate-Local River Generation Algorithm (PL-RGA)
 
 This repository contains a flat, infinite-world implementation of a Plate-Local River Generation Algorithm (PL-RGA).
 
