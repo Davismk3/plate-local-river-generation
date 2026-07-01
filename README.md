@@ -1,4 +1,4 @@
-# Plate-Local River Generation
+# Plate-Local River Generation Algorithm (PL-RGA)
 
 **Michael K. Davis III** — June 2026
 
