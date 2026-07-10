@@ -1,6 +1,6 @@
 
 """
-This entire script can be avoided if using dictionaries. I've gotten into the habbit of not using dictionaries since
+This entire script can be avoided if using dictionaries (or a better language like C++). I've gotten into the habbit of not using dictionaries since
 they are not Numba-friendly. This approach should also be better for performance. 
 """
 
