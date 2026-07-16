@@ -1,5 +1,7 @@
 # Reference-configuration metrics
 
+NOTE: AI was used to generate `export_figure.py`. This script is solely for visualization purposes, and plays no role in the PL-RGA itself. 
+
 The exact JSON summary and per-plate CSV that Section 4.1 ("Reference
 Configuration") and Table 1 of the paper report. Both are emitted by the
 same deterministic exporter invocation that produced the paper's Figure 1
