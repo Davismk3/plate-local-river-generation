@@ -1,5 +1,11 @@
 """Export a publication-resolution still from the interactive terrain visualizer."""
 
+"""
+This script was generated using AI. 
+
+This script exists for visualization purposes, and is entirely separate from the PL-RGA.
+"""
+
 import argparse
 import csv
 import json
