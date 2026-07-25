@@ -4,7 +4,7 @@
 
 This repository documents the Plate-Local River Generation Algorithm (PL-RGA), a deterministic procedural world-generation system that produces continents and terrain-aware, downhill-flowing river networks without precomputing the entire world environment. River geometry is generated lazily per continent, while terrain is evaluated pointwise on demand.
 
-The PL-RGA is ${\color{red}\text{not specific to rivers}}$. The same core algorithm can be adapted for road networks, volcano placement, settlement placement, or other features that require a hard-constrained topology and/or direct control over continental placement. 
+The PL-RGA is ${\color{red}\text{not specific to rivers}}$. The same core algorithm can be adapted for road networks, volcano placement, settlement placement, rare ore-vein placement, or other features that require a hard-constrained topology and/or direct control over continental placement. 
 
 This repository is currently a WIP.
 
