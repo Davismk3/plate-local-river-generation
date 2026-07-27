@@ -1,0 +1,2104 @@
+{
+  "records": [
+    {
+      "owner_idx": [
+        105005,
+        106260
+      ],
+      "elapsed_seconds": 0.41560087515972555,
+      "land_area_plate_cells2": 0.6239907536861137,
+      "domain_area_plate_cells2": 1.1126174926757812,
+      "node_count": 188,
+      "segment_count": 174,
+      "path_count": 46,
+      "max_path_length_plate_cells": 0.6592617261065075,
+      "total_channel_length_plate_cells": 5.414034444027061
+    },
+    {
+      "owner_idx": [
+        100037,
+        102547
+      ],
+      "elapsed_seconds": 0.4387695000041276,
+      "land_area_plate_cells2": 0.2928661997462866,
+      "domain_area_plate_cells2": 0.7747840881347656,
+      "node_count": 200,
+      "segment_count": 173,
+      "path_count": 44,
+      "max_path_length_plate_cells": 0.5190948810944008,
+      "total_channel_length_plate_cells": 5.080479758157145
+    },
+    {
+      "owner_idx": [
+        105042,
+        108807
+      ],
+      "elapsed_seconds": 0.2570798748638481,
+      "land_area_plate_cells2": 0.2943287367465328,
+      "domain_area_plate_cells2": 0.8288421630859375,
+      "node_count": 155,
+      "segment_count": 133,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.5444038836455104,
+      "total_channel_length_plate_cells": 4.11076911645281
+    },
+    {
+      "owner_idx": [
+        100074,
+        105094
+      ],
+      "elapsed_seconds": 0.5117168750148267,
+      "land_area_plate_cells2": 0.49829599333972463,
+      "domain_area_plate_cells2": 0.8787155151367188,
+      "node_count": 208,
+      "segment_count": 191,
+      "path_count": 41,
+      "max_path_length_plate_cells": 0.7610490751216126,
+      "total_channel_length_plate_cells": 6.089472018914901
+    },
+    {
+      "owner_idx": [
+        105079,
+        101381
+      ],
+      "elapsed_seconds": 0.2455042500514537,
+      "land_area_plate_cells2": 0.3008882247398238,
+      "domain_area_plate_cells2": 0.9387664794921875,
+      "node_count": 153,
+      "segment_count": 126,
+      "path_count": 39,
+      "max_path_length_plate_cells": 0.30599844752447325,
+      "total_channel_length_plate_cells": 3.648535265383594
+    },
+    {
+      "owner_idx": [
+        100111,
+        107641
+      ],
+      "elapsed_seconds": 0.5891594169661403,
+      "land_area_plate_cells2": 0.503557369596324,
+      "domain_area_plate_cells2": 1.1713485717773438,
+      "node_count": 230,
+      "segment_count": 209,
+      "path_count": 49,
+      "max_path_length_plate_cells": 0.6694289317723141,
+      "total_channel_length_plate_cells": 6.3655435064031565
+    },
+    {
+      "owner_idx": [
+        105116,
+        103928
+      ],
+      "elapsed_seconds": 0.358065125066787,
+      "land_area_plate_cells2": 0.34720248443362856,
+      "domain_area_plate_cells2": 0.9504547119140625,
+      "node_count": 178,
+      "segment_count": 159,
+      "path_count": 43,
+      "max_path_length_plate_cells": 0.5379697829864518,
+      "total_channel_length_plate_cells": 4.168416887134265
+    },
+    {
+      "owner_idx": [
+        100148,
+        100215
+      ],
+      "elapsed_seconds": 0.25831254106014967,
+      "land_area_plate_cells2": 0.31996113586866404,
+      "domain_area_plate_cells2": 0.8772964477539062,
+      "node_count": 154,
+      "segment_count": 133,
+      "path_count": 35,
+      "max_path_length_plate_cells": 0.5640255481325795,
+      "total_channel_length_plate_cells": 3.727450006298934
+    },
+    {
+      "owner_idx": [
+        105153,
+        106475
+      ],
+      "elapsed_seconds": 0.17241091607138515,
+      "land_area_plate_cells2": 0.3466515677708681,
+      "domain_area_plate_cells2": 0.867645263671875,
+      "node_count": 130,
+      "segment_count": 111,
+      "path_count": 27,
+      "max_path_length_plate_cells": 0.3653688490968567,
+      "total_channel_length_plate_cells": 3.462228686164423
+    },
+    {
+      "owner_idx": [
+        100185,
+        102762
+      ],
+      "elapsed_seconds": 0.006865042028948665,
+      "land_area_plate_cells2": 0.0194088571942743,
+      "domain_area_plate_cells2": 1.0313568115234375,
+      "node_count": 7,
+      "segment_count": 4,
+      "path_count": 3,
+      "max_path_length_plate_cells": 0.05642213386123228,
+      "total_channel_length_plate_cells": 0.1171083491531667
+    },
+    {
+      "owner_idx": [
+        105190,
+        109022
+      ],
+      "elapsed_seconds": 0.21408308297395706,
+      "land_area_plate_cells2": 0.444606656236392,
+      "domain_area_plate_cells2": 1.0352783203125,
+      "node_count": 152,
+      "segment_count": 123,
+      "path_count": 33,
+      "max_path_length_plate_cells": 0.30351053259129046,
+      "total_channel_length_plate_cells": 4.597707988709899
+    },
+    {
+      "owner_idx": [
+        100222,
+        105309
+      ],
+      "elapsed_seconds": 0.009082583943381906,
+      "land_area_plate_cells2": 0.04961886535799148,
+      "domain_area_plate_cells2": 1.0844039916992188,
+      "node_count": 24,
+      "segment_count": 15,
+      "path_count": 11,
+      "max_path_length_plate_cells": 0.07421212745073766,
+      "total_channel_length_plate_cells": 0.5236588438057901
+    },
+    {
+      "owner_idx": [
+        105227,
+        101596
+      ],
+      "elapsed_seconds": 0.5337435000110418,
+      "land_area_plate_cells2": 0.5607489519941747,
+      "domain_area_plate_cells2": 0.8862075805664062,
+      "node_count": 205,
+      "segment_count": 194,
+      "path_count": 38,
+      "max_path_length_plate_cells": 0.7889882433206676,
+      "total_channel_length_plate_cells": 6.202377620656011
+    },
+    {
+      "owner_idx": [
+        100259,
+        107856
+      ],
+      "elapsed_seconds": 0.005831709131598473,
+      "land_area_plate_cells2": 0.0,
+      "domain_area_plate_cells2": 1.0671615600585938,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        105264,
+        104143
+      ],
+      "elapsed_seconds": 0.006019665859639645,
+      "land_area_plate_cells2": 0.0013788860273904544,
+      "domain_area_plate_cells2": 1.2274055480957031,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        100296,
+        100430
+      ],
+      "elapsed_seconds": 0.5778011668007821,
+      "land_area_plate_cells2": 0.6672482157622859,
+      "domain_area_plate_cells2": 1.4125137329101562,
+      "node_count": 220,
+      "segment_count": 206,
+      "path_count": 48,
+      "max_path_length_plate_cells": 0.7645422852083043,
+      "total_channel_length_plate_cells": 6.791644616675775
+    },
+    {
+      "owner_idx": [
+        105301,
+        106690
+      ],
+      "elapsed_seconds": 0.041755333077162504,
+      "land_area_plate_cells2": 0.2931809154296218,
+      "domain_area_plate_cells2": 1.03826904296875,
+      "node_count": 65,
+      "segment_count": 50,
+      "path_count": 16,
+      "max_path_length_plate_cells": 0.262173596921515,
+      "total_channel_length_plate_cells": 1.6950891660471108
+    },
+    {
+      "owner_idx": [
+        100333,
+        102977
+      ],
+      "elapsed_seconds": 0.32639695797115564,
+      "land_area_plate_cells2": 0.47399015712958287,
+      "domain_area_plate_cells2": 1.0963554382324219,
+      "node_count": 162,
+      "segment_count": 149,
+      "path_count": 34,
+      "max_path_length_plate_cells": 0.5739127404590101,
+      "total_channel_length_plate_cells": 5.002816354299636
+    },
+    {
+      "owner_idx": [
+        105338,
+        109237
+      ],
+      "elapsed_seconds": 0.006464582867920399,
+      "land_area_plate_cells2": 0.008807358918366608,
+      "domain_area_plate_cells2": 0.8560752868652344,
+      "node_count": 5,
+      "segment_count": 3,
+      "path_count": 2,
+      "max_path_length_plate_cells": 0.06480046575150887,
+      "total_channel_length_plate_cells": 0.09974801059528192
+    },
+    {
+      "owner_idx": [
+        100370,
+        105524
+      ],
+      "elapsed_seconds": 0.9343546249438077,
+      "land_area_plate_cells2": 0.7469008810994502,
+      "domain_area_plate_cells2": 1.0503005981445312,
+      "node_count": 284,
+      "segment_count": 260,
+      "path_count": 45,
+      "max_path_length_plate_cells": 0.6928599144525616,
+      "total_channel_length_plate_cells": 9.121619854780036
+    },
+    {
+      "owner_idx": [
+        105375,
+        101811
+      ],
+      "elapsed_seconds": 0.4975402920972556,
+      "land_area_plate_cells2": 0.8078878051395473,
+      "domain_area_plate_cells2": 1.1652297973632812,
+      "node_count": 187,
+      "segment_count": 182,
+      "path_count": 34,
+      "max_path_length_plate_cells": 0.8798210926118364,
+      "total_channel_length_plate_cells": 5.609632161515289
+    },
+    {
+      "owner_idx": [
+        100407,
+        108071
+      ],
+      "elapsed_seconds": 0.41363249998539686,
+      "land_area_plate_cells2": 0.35444013701077437,
+      "domain_area_plate_cells2": 0.6951980590820312,
+      "node_count": 190,
+      "segment_count": 171,
+      "path_count": 42,
+      "max_path_length_plate_cells": 0.37769334221327194,
+      "total_channel_length_plate_cells": 4.6238863245457535
+    },
+    {
+      "owner_idx": [
+        105412,
+        104358
+      ],
+      "elapsed_seconds": 0.013283083913847804,
+      "land_area_plate_cells2": 0.2253425656682085,
+      "domain_area_plate_cells2": 1.1547698974609375,
+      "node_count": 23,
+      "segment_count": 17,
+      "path_count": 6,
+      "max_path_length_plate_cells": 0.27541405767450583,
+      "total_channel_length_plate_cells": 0.5696515306655225
+    },
+    {
+      "owner_idx": [
+        100444,
+        100645
+      ],
+      "elapsed_seconds": 0.5972018749453127,
+      "land_area_plate_cells2": 0.47080149345661343,
+      "domain_area_plate_cells2": 1.0507469177246094,
+      "node_count": 236,
+      "segment_count": 208,
+      "path_count": 49,
+      "max_path_length_plate_cells": 0.5255045036339504,
+      "total_channel_length_plate_cells": 6.643654997836742
+    },
+    {
+      "owner_idx": [
+        105449,
+        106905
+      ],
+      "elapsed_seconds": 0.005848458036780357,
+      "land_area_plate_cells2": 0.00013217903080828966,
+      "domain_area_plate_cells2": 0.7691497802734375,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        100481,
+        103192
+      ],
+      "elapsed_seconds": 0.5260887918993831,
+      "land_area_plate_cells2": 0.5973414929423589,
+      "domain_area_plate_cells2": 1.1562004089355469,
+      "node_count": 210,
+      "segment_count": 191,
+      "path_count": 42,
+      "max_path_length_plate_cells": 0.9196264124241539,
+      "total_channel_length_plate_cells": 6.513107654534202
+    },
+    {
+      "owner_idx": [
+        105486,
+        109452
+      ],
+      "elapsed_seconds": 0.21394958393648267,
+      "land_area_plate_cells2": 0.46041388260690785,
+      "domain_area_plate_cells2": 1.19256591796875,
+      "node_count": 138,
+      "segment_count": 120,
+      "path_count": 35,
+      "max_path_length_plate_cells": 0.4206601759398686,
+      "total_channel_length_plate_cells": 4.146563338898331
+    },
+    {
+      "owner_idx": [
+        100518,
+        105739
+      ],
+      "elapsed_seconds": 0.5125262921210378,
+      "land_area_plate_cells2": 0.4510921083975254,
+      "domain_area_plate_cells2": 0.972747802734375,
+      "node_count": 225,
+      "segment_count": 204,
+      "path_count": 48,
+      "max_path_length_plate_cells": 0.48615930329401996,
+      "total_channel_length_plate_cells": 6.017058829689487
+    },
+    {
+      "owner_idx": [
+        105523,
+        102026
+      ],
+      "elapsed_seconds": 0.0060731659177690744,
+      "land_area_plate_cells2": 0.00011572644094964623,
+      "domain_area_plate_cells2": 0.7063941955566406,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        100555,
+        108286
+      ],
+      "elapsed_seconds": 0.395107707940042,
+      "land_area_plate_cells2": 0.5406675155260148,
+      "domain_area_plate_cells2": 1.3253402709960938,
+      "node_count": 190,
+      "segment_count": 173,
+      "path_count": 46,
+      "max_path_length_plate_cells": 0.6616973578758023,
+      "total_channel_length_plate_cells": 6.023026752162
+    },
+    {
+      "owner_idx": [
+        105560,
+        104573
+      ],
+      "elapsed_seconds": 0.7161110839806497,
+      "land_area_plate_cells2": 0.5272170462425428,
+      "domain_area_plate_cells2": 0.8328781127929688,
+      "node_count": 236,
+      "segment_count": 220,
+      "path_count": 35,
+      "max_path_length_plate_cells": 0.6957497847278404,
+      "total_channel_length_plate_cells": 6.991519739412523
+    },
+    {
+      "owner_idx": [
+        100592,
+        100860
+      ],
+      "elapsed_seconds": 0.1698397498112172,
+      "land_area_plate_cells2": 0.21355270794670395,
+      "domain_area_plate_cells2": 0.6404380798339844,
+      "node_count": 125,
+      "segment_count": 105,
+      "path_count": 24,
+      "max_path_length_plate_cells": 0.2766840524712227,
+      "total_channel_length_plate_cells": 3.047424063142466
+    },
+    {
+      "owner_idx": [
+        105597,
+        107120
+      ],
+      "elapsed_seconds": 0.3090355000458658,
+      "land_area_plate_cells2": 0.458738538953993,
+      "domain_area_plate_cells2": 1.3744735717773438,
+      "node_count": 174,
+      "segment_count": 152,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.46116654780775856,
+      "total_channel_length_plate_cells": 5.275075555502849
+    },
+    {
+      "owner_idx": [
+        100629,
+        103407
+      ],
+      "elapsed_seconds": 0.5482052501756698,
+      "land_area_plate_cells2": 0.389524198299404,
+      "domain_area_plate_cells2": 0.9599838256835938,
+      "node_count": 227,
+      "segment_count": 200,
+      "path_count": 50,
+      "max_path_length_plate_cells": 0.331151518346517,
+      "total_channel_length_plate_cells": 5.526518566932704
+    },
+    {
+      "owner_idx": [
+        105634,
+        109667
+      ],
+      "elapsed_seconds": 0.5564211250748485,
+      "land_area_plate_cells2": 0.7702625070819418,
+      "domain_area_plate_cells2": 1.372650146484375,
+      "node_count": 218,
+      "segment_count": 197,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.5004524246866308,
+      "total_channel_length_plate_cells": 7.45782536389396
+    },
+    {
+      "owner_idx": [
+        100666,
+        105954
+      ],
+      "elapsed_seconds": 0.49553466704674065,
+      "land_area_plate_cells2": 0.6677911978027028,
+      "domain_area_plate_cells2": 1.2057991027832031,
+      "node_count": 205,
+      "segment_count": 187,
+      "path_count": 44,
+      "max_path_length_plate_cells": 0.5888608902598331,
+      "total_channel_length_plate_cells": 5.6360375460359124
+    },
+    {
+      "owner_idx": [
+        105671,
+        102241
+      ],
+      "elapsed_seconds": 0.42162237502634525,
+      "land_area_plate_cells2": 0.4890287060365358,
+      "domain_area_plate_cells2": 1.028045654296875,
+      "node_count": 179,
+      "segment_count": 168,
+      "path_count": 30,
+      "max_path_length_plate_cells": 0.6229064629344911,
+      "total_channel_length_plate_cells": 5.471017649732673
+    },
+    {
+      "owner_idx": [
+        100703,
+        108501
+      ],
+      "elapsed_seconds": 0.40287766698747873,
+      "land_area_plate_cells2": 0.389518083059228,
+      "domain_area_plate_cells2": 0.8929862976074219,
+      "node_count": 200,
+      "segment_count": 172,
+      "path_count": 49,
+      "max_path_length_plate_cells": 0.5933578201307356,
+      "total_channel_length_plate_cells": 5.692157845120573
+    },
+    {
+      "owner_idx": [
+        105708,
+        104788
+      ],
+      "elapsed_seconds": 0.005635750014334917,
+      "land_area_plate_cells2": 0.017701675180950782,
+      "domain_area_plate_cells2": 0.6435012817382812,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        100740,
+        101075
+      ],
+      "elapsed_seconds": 0.0052636670880019665,
+      "land_area_plate_cells2": 0.002549322720231681,
+      "domain_area_plate_cells2": 0.7393035888671875,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        105745,
+        107335
+      ],
+      "elapsed_seconds": 0.7812237089965492,
+      "land_area_plate_cells2": 0.8640114454903111,
+      "domain_area_plate_cells2": 1.3337821960449219,
+      "node_count": 259,
+      "segment_count": 237,
+      "path_count": 48,
+      "max_path_length_plate_cells": 0.8308630268981521,
+      "total_channel_length_plate_cells": 9.706627837314178
+    },
+    {
+      "owner_idx": [
+        100777,
+        103622
+      ],
+      "elapsed_seconds": 0.28821650007739663,
+      "land_area_plate_cells2": 0.2392818645615872,
+      "domain_area_plate_cells2": 0.5806694030761719,
+      "node_count": 166,
+      "segment_count": 152,
+      "path_count": 43,
+      "max_path_length_plate_cells": 0.5032547953835953,
+      "total_channel_length_plate_cells": 4.164534928417795
+    },
+    {
+      "owner_idx": [
+        105782,
+        109882
+      ],
+      "elapsed_seconds": 0.4916237089782953,
+      "land_area_plate_cells2": 0.4931921979453723,
+      "domain_area_plate_cells2": 1.0316238403320312,
+      "node_count": 203,
+      "segment_count": 190,
+      "path_count": 43,
+      "max_path_length_plate_cells": 0.6498560056721503,
+      "total_channel_length_plate_cells": 6.021553029632499
+    },
+    {
+      "owner_idx": [
+        100814,
+        106169
+      ],
+      "elapsed_seconds": 0.007046834100037813,
+      "land_area_plate_cells2": 0.0038842282052767483,
+      "domain_area_plate_cells2": 1.2500152587890625,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        105819,
+        102456
+      ],
+      "elapsed_seconds": 0.5871868748217821,
+      "land_area_plate_cells2": 0.6126302931287502,
+      "domain_area_plate_cells2": 1.0034561157226562,
+      "node_count": 220,
+      "segment_count": 205,
+      "path_count": 41,
+      "max_path_length_plate_cells": 0.617456240673338,
+      "total_channel_length_plate_cells": 6.023329932545924
+    },
+    {
+      "owner_idx": [
+        100851,
+        108716
+      ],
+      "elapsed_seconds": 0.5584832499735057,
+      "land_area_plate_cells2": 0.4126740064612599,
+      "domain_area_plate_cells2": 0.663330078125,
+      "node_count": 216,
+      "segment_count": 195,
+      "path_count": 34,
+      "max_path_length_plate_cells": 0.38965884332753703,
+      "total_channel_length_plate_cells": 5.573399266328304
+    },
+    {
+      "owner_idx": [
+        105856,
+        105003
+      ],
+      "elapsed_seconds": 0.5939317920710891,
+      "land_area_plate_cells2": 0.5252778739558547,
+      "domain_area_plate_cells2": 1.03314208984375,
+      "node_count": 223,
+      "segment_count": 199,
+      "path_count": 46,
+      "max_path_length_plate_cells": 0.6318266255034438,
+      "total_channel_length_plate_cells": 7.17691453048438
+    },
+    {
+      "owner_idx": [
+        100888,
+        101290
+      ],
+      "elapsed_seconds": 0.006822207942605019,
+      "land_area_plate_cells2": 0.0026790409871976666,
+      "domain_area_plate_cells2": 0.9387359619140625,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        105893,
+        107550
+      ],
+      "elapsed_seconds": 0.679974582977593,
+      "land_area_plate_cells2": 0.5175440281327458,
+      "domain_area_plate_cells2": 0.8534164428710938,
+      "node_count": 235,
+      "segment_count": 218,
+      "path_count": 44,
+      "max_path_length_plate_cells": 0.5776273437800559,
+      "total_channel_length_plate_cells": 6.875724076421041
+    },
+    {
+      "owner_idx": [
+        100925,
+        103837
+      ],
+      "elapsed_seconds": 0.3764295410364866,
+      "land_area_plate_cells2": 0.4964006482116949,
+      "domain_area_plate_cells2": 1.2700996398925781,
+      "node_count": 173,
+      "segment_count": 163,
+      "path_count": 39,
+      "max_path_length_plate_cells": 0.5929809521330196,
+      "total_channel_length_plate_cells": 5.617906515726491
+    },
+    {
+      "owner_idx": [
+        105930,
+        100124
+      ],
+      "elapsed_seconds": 0.42108983313664794,
+      "land_area_plate_cells2": 0.5429293550091026,
+      "domain_area_plate_cells2": 1.1264190673828125,
+      "node_count": 198,
+      "segment_count": 179,
+      "path_count": 46,
+      "max_path_length_plate_cells": 0.617164653961496,
+      "total_channel_length_plate_cells": 6.311458247955122
+    },
+    {
+      "owner_idx": [
+        100962,
+        106384
+      ],
+      "elapsed_seconds": 0.11384129081852734,
+      "land_area_plate_cells2": 0.2859694356681212,
+      "domain_area_plate_cells2": 0.7537727355957031,
+      "node_count": 107,
+      "segment_count": 91,
+      "path_count": 24,
+      "max_path_length_plate_cells": 0.378302159544014,
+      "total_channel_length_plate_cells": 2.4424983315390585
+    },
+    {
+      "owner_idx": [
+        105967,
+        102671
+      ],
+      "elapsed_seconds": 0.27010137494653463,
+      "land_area_plate_cells2": 0.4462367836065864,
+      "domain_area_plate_cells2": 1.1423873901367188,
+      "node_count": 161,
+      "segment_count": 137,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.3993219553120776,
+      "total_channel_length_plate_cells": 4.513289895377854
+    },
+    {
+      "owner_idx": [
+        100999,
+        108931
+      ],
+      "elapsed_seconds": 0.6024753341916949,
+      "land_area_plate_cells2": 0.6117113978109656,
+      "domain_area_plate_cells2": 1.2230224609375,
+      "node_count": 232,
+      "segment_count": 202,
+      "path_count": 42,
+      "max_path_length_plate_cells": 0.5895984909923895,
+      "total_channel_length_plate_cells": 7.879821992606477
+    },
+    {
+      "owner_idx": [
+        106004,
+        105218
+      ],
+      "elapsed_seconds": 0.006579709006473422,
+      "land_area_plate_cells2": 0.019666049970058004,
+      "domain_area_plate_cells2": 1.0533943176269531,
+      "node_count": 8,
+      "segment_count": 5,
+      "path_count": 3,
+      "max_path_length_plate_cells": 0.07372614400333181,
+      "total_channel_length_plate_cells": 0.15048192229158663
+    },
+    {
+      "owner_idx": [
+        101036,
+        101505
+      ],
+      "elapsed_seconds": 0.45960979210212827,
+      "land_area_plate_cells2": 0.7332622975911919,
+      "domain_area_plate_cells2": 1.4816131591796875,
+      "node_count": 199,
+      "segment_count": 181,
+      "path_count": 41,
+      "max_path_length_plate_cells": 0.6628667875081058,
+      "total_channel_length_plate_cells": 6.381895040167429
+    },
+    {
+      "owner_idx": [
+        106041,
+        107765
+      ],
+      "elapsed_seconds": 0.006713125156238675,
+      "land_area_plate_cells2": 0.01696165197847764,
+      "domain_area_plate_cells2": 1.1842803955078125,
+      "node_count": 3,
+      "segment_count": 2,
+      "path_count": 1,
+      "max_path_length_plate_cells": 0.07573968471544901,
+      "total_channel_length_plate_cells": 0.07573968471544901
+    },
+    {
+      "owner_idx": [
+        101073,
+        104052
+      ],
+      "elapsed_seconds": 0.04977687494829297,
+      "land_area_plate_cells2": 0.28438194779511855,
+      "domain_area_plate_cells2": 1.0266532897949219,
+      "node_count": 65,
+      "segment_count": 57,
+      "path_count": 13,
+      "max_path_length_plate_cells": 0.3550828801511436,
+      "total_channel_length_plate_cells": 2.0215651909021726
+    },
+    {
+      "owner_idx": [
+        106078,
+        100339
+      ],
+      "elapsed_seconds": 0.40783179085701704,
+      "land_area_plate_cells2": 0.44558844078764753,
+      "domain_area_plate_cells2": 0.8231735229492188,
+      "node_count": 196,
+      "segment_count": 164,
+      "path_count": 42,
+      "max_path_length_plate_cells": 0.31061040116057426,
+      "total_channel_length_plate_cells": 5.350692916197748
+    },
+    {
+      "owner_idx": [
+        101110,
+        106599
+      ],
+      "elapsed_seconds": 0.4381337088998407,
+      "land_area_plate_cells2": 0.7592750835872751,
+      "domain_area_plate_cells2": 1.2845611572265625,
+      "node_count": 194,
+      "segment_count": 179,
+      "path_count": 38,
+      "max_path_length_plate_cells": 0.8114587592493296,
+      "total_channel_length_plate_cells": 6.2404052917623964
+    },
+    {
+      "owner_idx": [
+        106115,
+        102886
+      ],
+      "elapsed_seconds": 0.8933737920597196,
+      "land_area_plate_cells2": 0.619329907742872,
+      "domain_area_plate_cells2": 0.962432861328125,
+      "node_count": 270,
+      "segment_count": 251,
+      "path_count": 38,
+      "max_path_length_plate_cells": 0.6444971629723703,
+      "total_channel_length_plate_cells": 8.605745167078405
+    },
+    {
+      "owner_idx": [
+        101147,
+        109146
+      ],
+      "elapsed_seconds": 0.43988054199144244,
+      "land_area_plate_cells2": 0.6506158334700788,
+      "domain_area_plate_cells2": 1.3085250854492188,
+      "node_count": 193,
+      "segment_count": 179,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.6042332086212415,
+      "total_channel_length_plate_cells": 6.2884992387448255
+    },
+    {
+      "owner_idx": [
+        106152,
+        105433
+      ],
+      "elapsed_seconds": 0.2535788749810308,
+      "land_area_plate_cells2": 0.3853777993168227,
+      "domain_area_plate_cells2": 0.9081077575683594,
+      "node_count": 152,
+      "segment_count": 132,
+      "path_count": 38,
+      "max_path_length_plate_cells": 0.4622912760909484,
+      "total_channel_length_plate_cells": 4.406949837321135
+    },
+    {
+      "owner_idx": [
+        101184,
+        101720
+      ],
+      "elapsed_seconds": 0.5742644579149783,
+      "land_area_plate_cells2": 0.364025216666129,
+      "domain_area_plate_cells2": 0.8927803039550781,
+      "node_count": 216,
+      "segment_count": 196,
+      "path_count": 45,
+      "max_path_length_plate_cells": 0.5175754300249658,
+      "total_channel_length_plate_cells": 5.305860746406882
+    },
+    {
+      "owner_idx": [
+        106189,
+        107980
+      ],
+      "elapsed_seconds": 0.8023280000779778,
+      "land_area_plate_cells2": 0.5620568284923881,
+      "domain_area_plate_cells2": 0.9882583618164062,
+      "node_count": 251,
+      "segment_count": 233,
+      "path_count": 43,
+      "max_path_length_plate_cells": 0.6192130179906674,
+      "total_channel_length_plate_cells": 7.1219789823563335
+    },
+    {
+      "owner_idx": [
+        101221,
+        104267
+      ],
+      "elapsed_seconds": 0.6042242080438882,
+      "land_area_plate_cells2": 0.4401681932056223,
+      "domain_area_plate_cells2": 0.8105430603027344,
+      "node_count": 205,
+      "segment_count": 188,
+      "path_count": 33,
+      "max_path_length_plate_cells": 0.4461630261810617,
+      "total_channel_length_plate_cells": 5.456482123221486
+    },
+    {
+      "owner_idx": [
+        106226,
+        100554
+      ],
+      "elapsed_seconds": 0.21016045892611146,
+      "land_area_plate_cells2": 0.35760701769025366,
+      "domain_area_plate_cells2": 1.0462799072265625,
+      "node_count": 130,
+      "segment_count": 118,
+      "path_count": 30,
+      "max_path_length_plate_cells": 0.5244287247548646,
+      "total_channel_length_plate_cells": 3.41363934327787
+    },
+    {
+      "owner_idx": [
+        101258,
+        106814
+      ],
+      "elapsed_seconds": 0.006397541845217347,
+      "land_area_plate_cells2": 0.0007267682554929555,
+      "domain_area_plate_cells2": 0.9359321594238281,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        106263,
+        103101
+      ],
+      "elapsed_seconds": 0.06884375005029142,
+      "land_area_plate_cells2": 0.27043553925565444,
+      "domain_area_plate_cells2": 0.7582626342773438,
+      "node_count": 81,
+      "segment_count": 68,
+      "path_count": 20,
+      "max_path_length_plate_cells": 0.2528507556599059,
+      "total_channel_length_plate_cells": 1.75099175252232
+    },
+    {
+      "owner_idx": [
+        101295,
+        109361
+      ],
+      "elapsed_seconds": 0.006244042189791799,
+      "land_area_plate_cells2": 0.00622622529276494,
+      "domain_area_plate_cells2": 0.8814353942871094,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        106300,
+        105648
+      ],
+      "elapsed_seconds": 0.36347162490710616,
+      "land_area_plate_cells2": 0.5946247508053284,
+      "domain_area_plate_cells2": 1.1360702514648438,
+      "node_count": 178,
+      "segment_count": 161,
+      "path_count": 38,
+      "max_path_length_plate_cells": 0.604873191589775,
+      "total_channel_length_plate_cells": 5.267959629969327
+    },
+    {
+      "owner_idx": [
+        101332,
+        101935
+      ],
+      "elapsed_seconds": 0.2995407918933779,
+      "land_area_plate_cells2": 0.37334660179162454,
+      "domain_area_plate_cells2": 1.0572547912597656,
+      "node_count": 170,
+      "segment_count": 147,
+      "path_count": 42,
+      "max_path_length_plate_cells": 0.4431453367550339,
+      "total_channel_length_plate_cells": 4.256168976125657
+    },
+    {
+      "owner_idx": [
+        106337,
+        108195
+      ],
+      "elapsed_seconds": 0.547189291100949,
+      "land_area_plate_cells2": 0.5976829131577773,
+      "domain_area_plate_cells2": 1.2837677001953125,
+      "node_count": 224,
+      "segment_count": 200,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.5206551955992991,
+      "total_channel_length_plate_cells": 7.349797201696835
+    },
+    {
+      "owner_idx": [
+        101369,
+        104482
+      ],
+      "elapsed_seconds": 0.3741145418025553,
+      "land_area_plate_cells2": 0.2510696256354867,
+      "domain_area_plate_cells2": 0.5803031921386719,
+      "node_count": 189,
+      "segment_count": 164,
+      "path_count": 38,
+      "max_path_length_plate_cells": 0.3499794292853606,
+      "total_channel_length_plate_cells": 4.054704331609452
+    },
+    {
+      "owner_idx": [
+        106374,
+        100769
+      ],
+      "elapsed_seconds": 0.005994624923914671,
+      "land_area_plate_cells2": 0.002622112785418009,
+      "domain_area_plate_cells2": 0.7266998291015625,
+      "node_count": 2,
+      "segment_count": 1,
+      "path_count": 1,
+      "max_path_length_plate_cells": 0.032153090724012574,
+      "total_channel_length_plate_cells": 0.032153090724012574
+    },
+    {
+      "owner_idx": [
+        101406,
+        107029
+      ],
+      "elapsed_seconds": 0.6785214168485254,
+      "land_area_plate_cells2": 0.5325305612848096,
+      "domain_area_plate_cells2": 0.8566207885742188,
+      "node_count": 228,
+      "segment_count": 213,
+      "path_count": 35,
+      "max_path_length_plate_cells": 0.5305041364676204,
+      "total_channel_length_plate_cells": 6.358667950785671
+    },
+    {
+      "owner_idx": [
+        106411,
+        103316
+      ],
+      "elapsed_seconds": 0.6173425829038024,
+      "land_area_plate_cells2": 0.5413089969537581,
+      "domain_area_plate_cells2": 1.1365814208984375,
+      "node_count": 236,
+      "segment_count": 214,
+      "path_count": 50,
+      "max_path_length_plate_cells": 0.5705507629006034,
+      "total_channel_length_plate_cells": 7.2568206685568235
+    },
+    {
+      "owner_idx": [
+        101443,
+        109576
+      ],
+      "elapsed_seconds": 0.00611341604962945,
+      "land_area_plate_cells2": 0.013919612443895954,
+      "domain_area_plate_cells2": 0.8812942504882812,
+      "node_count": 2,
+      "segment_count": 1,
+      "path_count": 1,
+      "max_path_length_plate_cells": 0.026238690787553785,
+      "total_channel_length_plate_cells": 0.026238690787553785
+    },
+    {
+      "owner_idx": [
+        106448,
+        105863
+      ],
+      "elapsed_seconds": 0.6963176249992102,
+      "land_area_plate_cells2": 0.8251307994705158,
+      "domain_area_plate_cells2": 1.1245765686035156,
+      "node_count": 226,
+      "segment_count": 216,
+      "path_count": 34,
+      "max_path_length_plate_cells": 0.7355598168021699,
+      "total_channel_length_plate_cells": 7.49114273125424
+    },
+    {
+      "owner_idx": [
+        101480,
+        102150
+      ],
+      "elapsed_seconds": 0.2432116661220789,
+      "land_area_plate_cells2": 0.30842085225183336,
+      "domain_area_plate_cells2": 0.8788642883300781,
+      "node_count": 154,
+      "segment_count": 129,
+      "path_count": 35,
+      "max_path_length_plate_cells": 0.3051171105400245,
+      "total_channel_length_plate_cells": 4.104449372784159
+    },
+    {
+      "owner_idx": [
+        106485,
+        108410
+      ],
+      "elapsed_seconds": 0.6662405000533909,
+      "land_area_plate_cells2": 0.4178252577027965,
+      "domain_area_plate_cells2": 0.90411376953125,
+      "node_count": 238,
+      "segment_count": 219,
+      "path_count": 46,
+      "max_path_length_plate_cells": 0.5027783328489298,
+      "total_channel_length_plate_cells": 6.3133343259457195
+    },
+    {
+      "owner_idx": [
+        101517,
+        104697
+      ],
+      "elapsed_seconds": 0.4923146669752896,
+      "land_area_plate_cells2": 0.571141064077571,
+      "domain_area_plate_cells2": 1.0082817077636719,
+      "node_count": 198,
+      "segment_count": 184,
+      "path_count": 41,
+      "max_path_length_plate_cells": 0.6306992809591482,
+      "total_channel_length_plate_cells": 5.982689495441242
+    },
+    {
+      "owner_idx": [
+        106522,
+        100984
+      ],
+      "elapsed_seconds": 0.2890496659092605,
+      "land_area_plate_cells2": 0.5059336922444124,
+      "domain_area_plate_cells2": 1.3301849365234375,
+      "node_count": 170,
+      "segment_count": 142,
+      "path_count": 42,
+      "max_path_length_plate_cells": 0.4378496599836255,
+      "total_channel_length_plate_cells": 5.4010642767974195
+    },
+    {
+      "owner_idx": [
+        101554,
+        107244
+      ],
+      "elapsed_seconds": 0.6530984588898718,
+      "land_area_plate_cells2": 0.3983580188614366,
+      "domain_area_plate_cells2": 0.831634521484375,
+      "node_count": 231,
+      "segment_count": 209,
+      "path_count": 45,
+      "max_path_length_plate_cells": 0.4888864994605419,
+      "total_channel_length_plate_cells": 5.648840429687345
+    },
+    {
+      "owner_idx": [
+        106559,
+        103531
+      ],
+      "elapsed_seconds": 0.09886920801363885,
+      "land_area_plate_cells2": 0.23898873275157057,
+      "domain_area_plate_cells2": 0.9860420227050781,
+      "node_count": 96,
+      "segment_count": 78,
+      "path_count": 21,
+      "max_path_length_plate_cells": 0.28502349130376803,
+      "total_channel_length_plate_cells": 2.399717723013231
+    },
+    {
+      "owner_idx": [
+        101591,
+        109791
+      ],
+      "elapsed_seconds": 0.32767274999059737,
+      "land_area_plate_cells2": 0.41580261807638536,
+      "domain_area_plate_cells2": 0.9924736022949219,
+      "node_count": 158,
+      "segment_count": 147,
+      "path_count": 30,
+      "max_path_length_plate_cells": 0.5078720199815399,
+      "total_channel_length_plate_cells": 4.298855181207013
+    },
+    {
+      "owner_idx": [
+        106596,
+        106078
+      ],
+      "elapsed_seconds": 0.2531511669512838,
+      "land_area_plate_cells2": 0.2992215156555176,
+      "domain_area_plate_cells2": 0.8957862854003906,
+      "node_count": 153,
+      "segment_count": 129,
+      "path_count": 37,
+      "max_path_length_plate_cells": 0.4006834649355015,
+      "total_channel_length_plate_cells": 3.9853961517040077
+    },
+    {
+      "owner_idx": [
+        101628,
+        102365
+      ],
+      "elapsed_seconds": 0.4873030830640346,
+      "land_area_plate_cells2": 0.355241198484072,
+      "domain_area_plate_cells2": 0.7420005798339844,
+      "node_count": 217,
+      "segment_count": 184,
+      "path_count": 48,
+      "max_path_length_plate_cells": 0.3558951142498035,
+      "total_channel_length_plate_cells": 5.154663795396555
+    },
+    {
+      "owner_idx": [
+        106633,
+        108625
+      ],
+      "elapsed_seconds": 0.6985139159951359,
+      "land_area_plate_cells2": 0.37003964314736704,
+      "domain_area_plate_cells2": 0.8481063842773438,
+      "node_count": 225,
+      "segment_count": 214,
+      "path_count": 49,
+      "max_path_length_plate_cells": 0.8016516920812914,
+      "total_channel_length_plate_cells": 5.730048672188586
+    },
+    {
+      "owner_idx": [
+        101665,
+        104912
+      ],
+      "elapsed_seconds": 0.33912674989551306,
+      "land_area_plate_cells2": 0.4044798126963999,
+      "domain_area_plate_cells2": 1.4574661254882812,
+      "node_count": 183,
+      "segment_count": 155,
+      "path_count": 47,
+      "max_path_length_plate_cells": 0.4766009913367017,
+      "total_channel_length_plate_cells": 5.518810935375716
+    },
+    {
+      "owner_idx": [
+        106670,
+        101199
+      ],
+      "elapsed_seconds": 0.32174508296884596,
+      "land_area_plate_cells2": 0.432558928157406,
+      "domain_area_plate_cells2": 0.9907493591308594,
+      "node_count": 172,
+      "segment_count": 149,
+      "path_count": 37,
+      "max_path_length_plate_cells": 0.3825537743508376,
+      "total_channel_length_plate_cells": 5.493427274564696
+    },
+    {
+      "owner_idx": [
+        101702,
+        107459
+      ],
+      "elapsed_seconds": 0.5096993751358241,
+      "land_area_plate_cells2": 0.7115508952039353,
+      "domain_area_plate_cells2": 1.57147216796875,
+      "node_count": 203,
+      "segment_count": 194,
+      "path_count": 38,
+      "max_path_length_plate_cells": 0.6353849121279195,
+      "total_channel_length_plate_cells": 7.031118992592573
+    },
+    {
+      "owner_idx": [
+        106707,
+        103746
+      ],
+      "elapsed_seconds": 0.005962833063676953,
+      "land_area_plate_cells2": 0.006915590760321113,
+      "domain_area_plate_cells2": 0.9256134033203125,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        101739,
+        100033
+      ],
+      "elapsed_seconds": 0.3490800829604268,
+      "land_area_plate_cells2": 0.5208461628971414,
+      "domain_area_plate_cells2": 0.8485565185546875,
+      "node_count": 169,
+      "segment_count": 158,
+      "path_count": 34,
+      "max_path_length_plate_cells": 0.4643920087574943,
+      "total_channel_length_plate_cells": 4.108594620220387
+    },
+    {
+      "owner_idx": [
+        106744,
+        106293
+      ],
+      "elapsed_seconds": 0.022459499770775437,
+      "land_area_plate_cells2": 0.1605281421516731,
+      "domain_area_plate_cells2": 0.8392791748046875,
+      "node_count": 43,
+      "segment_count": 29,
+      "path_count": 15,
+      "max_path_length_plate_cells": 0.12255101953782944,
+      "total_channel_length_plate_cells": 0.8109284041898506
+    },
+    {
+      "owner_idx": [
+        101776,
+        102580
+      ],
+      "elapsed_seconds": 0.07922858302481472,
+      "land_area_plate_cells2": 0.3484038154594284,
+      "domain_area_plate_cells2": 1.2150840759277344,
+      "node_count": 86,
+      "segment_count": 72,
+      "path_count": 19,
+      "max_path_length_plate_cells": 0.4234069898193581,
+      "total_channel_length_plate_cells": 2.6198788654687726
+    },
+    {
+      "owner_idx": [
+        106781,
+        108840
+      ],
+      "elapsed_seconds": 0.44057612493634224,
+      "land_area_plate_cells2": 0.40578783310522976,
+      "domain_area_plate_cells2": 0.8767433166503906,
+      "node_count": 205,
+      "segment_count": 183,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.4088636596020527,
+      "total_channel_length_plate_cells": 5.848352535437972
+    },
+    {
+      "owner_idx": [
+        101813,
+        105127
+      ],
+      "elapsed_seconds": 0.614345540991053,
+      "land_area_plate_cells2": 0.5271175958999187,
+      "domain_area_plate_cells2": 0.8943557739257812,
+      "node_count": 222,
+      "segment_count": 213,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.6044075721765632,
+      "total_channel_length_plate_cells": 6.226693665630497
+    },
+    {
+      "owner_idx": [
+        106818,
+        101414
+      ],
+      "elapsed_seconds": 0.006793583044782281,
+      "land_area_plate_cells2": 0.20308793929343458,
+      "domain_area_plate_cells2": 0.7467002868652344,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        101850,
+        107674
+      ],
+      "elapsed_seconds": 0.20360837504267693,
+      "land_area_plate_cells2": 0.42288508816690173,
+      "domain_area_plate_cells2": 0.9004631042480469,
+      "node_count": 133,
+      "segment_count": 115,
+      "path_count": 30,
+      "max_path_length_plate_cells": 0.4453907225094843,
+      "total_channel_length_plate_cells": 3.6707478061604313
+    },
+    {
+      "owner_idx": [
+        106855,
+        103961
+      ],
+      "elapsed_seconds": 0.5383121659979224,
+      "land_area_plate_cells2": 0.3949998500142381,
+      "domain_area_plate_cells2": 1.0650596618652344,
+      "node_count": 223,
+      "segment_count": 198,
+      "path_count": 50,
+      "max_path_length_plate_cells": 0.49397676359019915,
+      "total_channel_length_plate_cells": 6.3747316939003795
+    },
+    {
+      "owner_idx": [
+        101887,
+        100248
+      ],
+      "elapsed_seconds": 0.007837790995836258,
+      "land_area_plate_cells2": 0.0047917328883749595,
+      "domain_area_plate_cells2": 0.9602165222167969,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        106892,
+        106508
+      ],
+      "elapsed_seconds": 0.3880593329668045,
+      "land_area_plate_cells2": 0.45287227713375516,
+      "domain_area_plate_cells2": 1.1448478698730469,
+      "node_count": 169,
+      "segment_count": 154,
+      "path_count": 35,
+      "max_path_length_plate_cells": 0.39484660941103755,
+      "total_channel_length_plate_cells": 4.874807400282078
+    },
+    {
+      "owner_idx": [
+        101924,
+        102795
+      ],
+      "elapsed_seconds": 0.5743559580296278,
+      "land_area_plate_cells2": 0.6183110512235367,
+      "domain_area_plate_cells2": 1.2614479064941406,
+      "node_count": 213,
+      "segment_count": 200,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.6234512969696212,
+      "total_channel_length_plate_cells": 7.271861136696713
+    },
+    {
+      "owner_idx": [
+        106929,
+        109055
+      ],
+      "elapsed_seconds": 0.007000249810516834,
+      "land_area_plate_cells2": 0.09014190630348909,
+      "domain_area_plate_cells2": 0.612945556640625,
+      "node_count": 8,
+      "segment_count": 5,
+      "path_count": 3,
+      "max_path_length_plate_cells": 0.0606821907497429,
+      "total_channel_length_plate_cells": 0.13594456368227464
+    },
+    {
+      "owner_idx": [
+        101961,
+        105342
+      ],
+      "elapsed_seconds": 0.19737399998120964,
+      "land_area_plate_cells2": 0.39947109654350416,
+      "domain_area_plate_cells2": 1.1455535888671875,
+      "node_count": 135,
+      "segment_count": 114,
+      "path_count": 35,
+      "max_path_length_plate_cells": 0.6249311858356965,
+      "total_channel_length_plate_cells": 4.0440523647021305
+    },
+    {
+      "owner_idx": [
+        106966,
+        101629
+      ],
+      "elapsed_seconds": 0.7870278749614954,
+      "land_area_plate_cells2": 0.5646256816757876,
+      "domain_area_plate_cells2": 0.9116973876953125,
+      "node_count": 259,
+      "segment_count": 241,
+      "path_count": 50,
+      "max_path_length_plate_cells": 0.7296922022669418,
+      "total_channel_length_plate_cells": 7.256811190316304
+    },
+    {
+      "owner_idx": [
+        101998,
+        107889
+      ],
+      "elapsed_seconds": 0.5715448749251664,
+      "land_area_plate_cells2": 0.5546271810306844,
+      "domain_area_plate_cells2": 0.9098777770996094,
+      "node_count": 202,
+      "segment_count": 197,
+      "path_count": 32,
+      "max_path_length_plate_cells": 0.624955525861441,
+      "total_channel_length_plate_cells": 4.925453028160168
+    },
+    {
+      "owner_idx": [
+        107003,
+        104176
+      ],
+      "elapsed_seconds": 0.25741695798933506,
+      "land_area_plate_cells2": 0.2874844007402937,
+      "domain_area_plate_cells2": 1.0339775085449219,
+      "node_count": 154,
+      "segment_count": 132,
+      "path_count": 37,
+      "max_path_length_plate_cells": 0.44048543107903637,
+      "total_channel_length_plate_cells": 4.932611762103113
+    },
+    {
+      "owner_idx": [
+        102035,
+        100463
+      ],
+      "elapsed_seconds": 0.5506163749378175,
+      "land_area_plate_cells2": 0.4912154789734589,
+      "domain_area_plate_cells2": 0.8555259704589844,
+      "node_count": 205,
+      "segment_count": 194,
+      "path_count": 41,
+      "max_path_length_plate_cells": 0.6116509929512736,
+      "total_channel_length_plate_cells": 5.406383356371713
+    },
+    {
+      "owner_idx": [
+        107040,
+        106723
+      ],
+      "elapsed_seconds": 0.28346024989150465,
+      "land_area_plate_cells2": 0.5735677584657737,
+      "domain_area_plate_cells2": 1.189178466796875,
+      "node_count": 157,
+      "segment_count": 134,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.5486671449617839,
+      "total_channel_length_plate_cells": 6.106651556563684
+    },
+    {
+      "owner_idx": [
+        102072,
+        103010
+      ],
+      "elapsed_seconds": 0.2682119170203805,
+      "land_area_plate_cells2": 0.3666415322538754,
+      "domain_area_plate_cells2": 1.2113304138183594,
+      "node_count": 159,
+      "segment_count": 136,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.5529191922862328,
+      "total_channel_length_plate_cells": 4.4043956645860804
+    },
+    {
+      "owner_idx": [
+        107077,
+        109270
+      ],
+      "elapsed_seconds": 0.9787853749003261,
+      "land_area_plate_cells2": 0.5096584600624772,
+      "domain_area_plate_cells2": 0.9142837524414062,
+      "node_count": 282,
+      "segment_count": 266,
+      "path_count": 46,
+      "max_path_length_plate_cells": 0.6778312138575218,
+      "total_channel_length_plate_cells": 7.712720063712752
+    },
+    {
+      "owner_idx": [
+        102109,
+        105557
+      ],
+      "elapsed_seconds": 0.28991445805877447,
+      "land_area_plate_cells2": 0.40685878978056067,
+      "domain_area_plate_cells2": 1.1250724792480469,
+      "node_count": 168,
+      "segment_count": 142,
+      "path_count": 41,
+      "max_path_length_plate_cells": 0.5047242991277329,
+      "total_channel_length_plate_cells": 5.154420810029539
+    },
+    {
+      "owner_idx": [
+        107114,
+        101844
+      ],
+      "elapsed_seconds": 0.6171529169660062,
+      "land_area_plate_cells2": 0.42882149172470096,
+      "domain_area_plate_cells2": 1.0886306762695312,
+      "node_count": 235,
+      "segment_count": 211,
+      "path_count": 50,
+      "max_path_length_plate_cells": 0.5514841806920172,
+      "total_channel_length_plate_cells": 6.678376962379927
+    },
+    {
+      "owner_idx": [
+        102146,
+        108104
+      ],
+      "elapsed_seconds": 0.407300041988492,
+      "land_area_plate_cells2": 0.29664254069243096,
+      "domain_area_plate_cells2": 0.7358207702636719,
+      "node_count": 208,
+      "segment_count": 181,
+      "path_count": 50,
+      "max_path_length_plate_cells": 0.4038956526409007,
+      "total_channel_length_plate_cells": 5.194222759523854
+    },
+    {
+      "owner_idx": [
+        107151,
+        104391
+      ],
+      "elapsed_seconds": 0.6617667919490486,
+      "land_area_plate_cells2": 0.4077754481646416,
+      "domain_area_plate_cells2": 0.9107437133789062,
+      "node_count": 232,
+      "segment_count": 207,
+      "path_count": 43,
+      "max_path_length_plate_cells": 0.4344587486654897,
+      "total_channel_length_plate_cells": 6.302189927493463
+    },
+    {
+      "owner_idx": [
+        102183,
+        100678
+      ],
+      "elapsed_seconds": 0.35770987486466765,
+      "land_area_plate_cells2": 0.3250029824121392,
+      "domain_area_plate_cells2": 0.6515274047851562,
+      "node_count": 172,
+      "segment_count": 158,
+      "path_count": 45,
+      "max_path_length_plate_cells": 0.6326385868805195,
+      "total_channel_length_plate_cells": 4.11853220032469
+    },
+    {
+      "owner_idx": [
+        107188,
+        106938
+      ],
+      "elapsed_seconds": 0.52278708294034,
+      "land_area_plate_cells2": 0.507511093496738,
+      "domain_area_plate_cells2": 1.3485031127929688,
+      "node_count": 208,
+      "segment_count": 189,
+      "path_count": 42,
+      "max_path_length_plate_cells": 0.6030193135048287,
+      "total_channel_length_plate_cells": 6.603437569384478
+    },
+    {
+      "owner_idx": [
+        102220,
+        103225
+      ],
+      "elapsed_seconds": 0.4134992500767112,
+      "land_area_plate_cells2": 0.393605556065171,
+      "domain_area_plate_cells2": 0.77947998046875,
+      "node_count": 178,
+      "segment_count": 169,
+      "path_count": 34,
+      "max_path_length_plate_cells": 0.5219256852666699,
+      "total_channel_length_plate_cells": 4.606056420573624
+    },
+    {
+      "owner_idx": [
+        107225,
+        109485
+      ],
+      "elapsed_seconds": 0.38934374996460974,
+      "land_area_plate_cells2": 0.5376914455200815,
+      "domain_area_plate_cells2": 0.7875480651855469,
+      "node_count": 160,
+      "segment_count": 156,
+      "path_count": 26,
+      "max_path_length_plate_cells": 0.6920576304266232,
+      "total_channel_length_plate_cells": 4.1689626401663205
+    },
+    {
+      "owner_idx": [
+        102257,
+        105772
+      ],
+      "elapsed_seconds": 0.02761774999089539,
+      "land_area_plate_cells2": 0.2405351405734182,
+      "domain_area_plate_cells2": 0.7837409973144531,
+      "node_count": 49,
+      "segment_count": 38,
+      "path_count": 11,
+      "max_path_length_plate_cells": 0.2200826122635803,
+      "total_channel_length_plate_cells": 1.3405261071812418
+    },
+    {
+      "owner_idx": [
+        107262,
+        102059
+      ],
+      "elapsed_seconds": 0.7783230419736356,
+      "land_area_plate_cells2": 0.5518858466585541,
+      "domain_area_plate_cells2": 1.0064926147460938,
+      "node_count": 251,
+      "segment_count": 227,
+      "path_count": 47,
+      "max_path_length_plate_cells": 0.554430228225656,
+      "total_channel_length_plate_cells": 7.278196401900426
+    },
+    {
+      "owner_idx": [
+        102294,
+        108319
+      ],
+      "elapsed_seconds": 1.19591849995777,
+      "land_area_plate_cells2": 0.6841539888640784,
+      "domain_area_plate_cells2": 1.1368942260742188,
+      "node_count": 285,
+      "segment_count": 263,
+      "path_count": 46,
+      "max_path_length_plate_cells": 0.8228110888832018,
+      "total_channel_length_plate_cells": 9.758019922104099
+    },
+    {
+      "owner_idx": [
+        107299,
+        104606
+      ],
+      "elapsed_seconds": 0.598215457983315,
+      "land_area_plate_cells2": 0.7087979324952131,
+      "domain_area_plate_cells2": 1.1822586059570312,
+      "node_count": 222,
+      "segment_count": 209,
+      "path_count": 43,
+      "max_path_length_plate_cells": 0.6586285856774271,
+      "total_channel_length_plate_cells": 6.876402561499678
+    },
+    {
+      "owner_idx": [
+        102331,
+        100893
+      ],
+      "elapsed_seconds": 0.0060282498598098755,
+      "land_area_plate_cells2": 0.009799435765771383,
+      "domain_area_plate_cells2": 1.06573486328125,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        107336,
+        107153
+      ],
+      "elapsed_seconds": 0.007833540905267,
+      "land_area_plate_cells2": 0.0,
+      "domain_area_plate_cells2": 0.9014816284179688,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        102368,
+        103440
+      ],
+      "elapsed_seconds": 0.006108499830588698,
+      "land_area_plate_cells2": 0.1382709680709852,
+      "domain_area_plate_cells2": 0.9376602172851562,
+      "node_count": 3,
+      "segment_count": 2,
+      "path_count": 1,
+      "max_path_length_plate_cells": 0.06596054167627398,
+      "total_channel_length_plate_cells": 0.06596054167627398
+    },
+    {
+      "owner_idx": [
+        107373,
+        109700
+      ],
+      "elapsed_seconds": 0.510360874934122,
+      "land_area_plate_cells2": 0.5076192652925532,
+      "domain_area_plate_cells2": 1.00244140625,
+      "node_count": 208,
+      "segment_count": 190,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.6069189739973706,
+      "total_channel_length_plate_cells": 5.921926018373967
+    },
+    {
+      "owner_idx": [
+        102405,
+        105987
+      ],
+      "elapsed_seconds": 0.0070432089269161224,
+      "land_area_plate_cells2": 0.014784934030953571,
+      "domain_area_plate_cells2": 1.2218055725097656,
+      "node_count": 2,
+      "segment_count": 1,
+      "path_count": 1,
+      "max_path_length_plate_cells": 0.037788983594257045,
+      "total_channel_length_plate_cells": 0.037788983594257045
+    },
+    {
+      "owner_idx": [
+        107410,
+        102274
+      ],
+      "elapsed_seconds": 0.7755419169552624,
+      "land_area_plate_cells2": 0.6765481428666548,
+      "domain_area_plate_cells2": 0.9835281372070312,
+      "node_count": 240,
+      "segment_count": 229,
+      "path_count": 41,
+      "max_path_length_plate_cells": 0.8810765947922258,
+      "total_channel_length_plate_cells": 6.2819457146631805
+    },
+    {
+      "owner_idx": [
+        102442,
+        108534
+      ],
+      "elapsed_seconds": 0.610744290985167,
+      "land_area_plate_cells2": 0.7577227002153728,
+      "domain_area_plate_cells2": 1.4219741821289062,
+      "node_count": 225,
+      "segment_count": 210,
+      "path_count": 43,
+      "max_path_length_plate_cells": 0.6296799176165048,
+      "total_channel_length_plate_cells": 7.997513460888344
+    },
+    {
+      "owner_idx": [
+        107447,
+        104821
+      ],
+      "elapsed_seconds": 0.9488451248034835,
+      "land_area_plate_cells2": 0.7411601564753179,
+      "domain_area_plate_cells2": 1.4884490966796875,
+      "node_count": 287,
+      "segment_count": 267,
+      "path_count": 44,
+      "max_path_length_plate_cells": 0.5961552912518036,
+      "total_channel_length_plate_cells": 9.969012931298343
+    },
+    {
+      "owner_idx": [
+        102479,
+        101108
+      ],
+      "elapsed_seconds": 0.0076998339500278234,
+      "land_area_plate_cells2": 0.015187604594702708,
+      "domain_area_plate_cells2": 0.6673965454101562,
+      "node_count": 3,
+      "segment_count": 2,
+      "path_count": 1,
+      "max_path_length_plate_cells": 0.056055620219363674,
+      "total_channel_length_plate_cells": 0.056055620219363674
+    },
+    {
+      "owner_idx": [
+        107484,
+        107368
+      ],
+      "elapsed_seconds": 0.367624833015725,
+      "land_area_plate_cells2": 0.47844120592067646,
+      "domain_area_plate_cells2": 1.1437835693359375,
+      "node_count": 173,
+      "segment_count": 157,
+      "path_count": 39,
+      "max_path_length_plate_cells": 0.5029581386744237,
+      "total_channel_length_plate_cells": 4.823411388184401
+    },
+    {
+      "owner_idx": [
+        102516,
+        103655
+      ],
+      "elapsed_seconds": 0.50036795809865,
+      "land_area_plate_cells2": 0.4571946192072277,
+      "domain_area_plate_cells2": 1.0305328369140625,
+      "node_count": 226,
+      "segment_count": 186,
+      "path_count": 50,
+      "max_path_length_plate_cells": 0.3424785029405275,
+      "total_channel_length_plate_cells": 6.62346427838453
+    },
+    {
+      "owner_idx": [
+        107521,
+        109915
+      ],
+      "elapsed_seconds": 0.006363624939695001,
+      "land_area_plate_cells2": 0.013490987461201517,
+      "domain_area_plate_cells2": 0.8951339721679688,
+      "node_count": 0,
+      "segment_count": 0,
+      "path_count": 0,
+      "max_path_length_plate_cells": 0.0,
+      "total_channel_length_plate_cells": 0
+    },
+    {
+      "owner_idx": [
+        102553,
+        106202
+      ],
+      "elapsed_seconds": 0.006327374838292599,
+      "land_area_plate_cells2": 0.005646217942943674,
+      "domain_area_plate_cells2": 1.1324195861816406,
+      "node_count": 2,
+      "segment_count": 1,
+      "path_count": 1,
+      "max_path_length_plate_cells": 0.03801192282225415,
+      "total_channel_length_plate_cells": 0.03801192282225415
+    },
+    {
+      "owner_idx": [
+        107558,
+        102489
+      ],
+      "elapsed_seconds": 0.33729429193772376,
+      "land_area_plate_cells2": 0.45967513533721865,
+      "domain_area_plate_cells2": 1.2134971618652344,
+      "node_count": 176,
+      "segment_count": 158,
+      "path_count": 43,
+      "max_path_length_plate_cells": 0.5615556850091321,
+      "total_channel_length_plate_cells": 5.507906481441139
+    },
+    {
+      "owner_idx": [
+        102590,
+        108749
+      ],
+      "elapsed_seconds": 0.09400599985383451,
+      "land_area_plate_cells2": 0.2717631137329527,
+      "domain_area_plate_cells2": 0.7826995849609375,
+      "node_count": 95,
+      "segment_count": 80,
+      "path_count": 17,
+      "max_path_length_plate_cells": 0.2646985866512704,
+      "total_channel_length_plate_cells": 2.4947348275493666
+    },
+    {
+      "owner_idx": [
+        107595,
+        105036
+      ],
+      "elapsed_seconds": 0.5272377501241863,
+      "land_area_plate_cells2": 0.5648383549035573,
+      "domain_area_plate_cells2": 1.1545143127441406,
+      "node_count": 227,
+      "segment_count": 197,
+      "path_count": 49,
+      "max_path_length_plate_cells": 0.35282772440824994,
+      "total_channel_length_plate_cells": 6.6188193484176905
+    },
+    {
+      "owner_idx": [
+        102627,
+        101323
+      ],
+      "elapsed_seconds": 0.24730404210276902,
+      "land_area_plate_cells2": 0.3645157488057344,
+      "domain_area_plate_cells2": 1.1117057800292969,
+      "node_count": 155,
+      "segment_count": 129,
+      "path_count": 44,
+      "max_path_length_plate_cells": 0.4891078262400556,
+      "total_channel_length_plate_cells": 3.988347908289261
+    },
+    {
+      "owner_idx": [
+        107632,
+        107583
+      ],
+      "elapsed_seconds": 0.35955304210074246,
+      "land_area_plate_cells2": 0.4417822409544983,
+      "domain_area_plate_cells2": 1.007781982421875,
+      "node_count": 166,
+      "segment_count": 149,
+      "path_count": 34,
+      "max_path_length_plate_cells": 0.41602869993557706,
+      "total_channel_length_plate_cells": 4.696080627349202
+    },
+    {
+      "owner_idx": [
+        102664,
+        103870
+      ],
+      "elapsed_seconds": 0.7211690000258386,
+      "land_area_plate_cells2": 0.7303801445668021,
+      "domain_area_plate_cells2": 0.9382820129394531,
+      "node_count": 235,
+      "segment_count": 220,
+      "path_count": 41,
+      "max_path_length_plate_cells": 0.7134346158039487,
+      "total_channel_length_plate_cells": 6.7622248590903675
+    },
+    {
+      "owner_idx": [
+        107669,
+        100157
+      ],
+      "elapsed_seconds": 0.39899812499061227,
+      "land_area_plate_cells2": 0.47542225590142106,
+      "domain_area_plate_cells2": 1.1859817504882812,
+      "node_count": 177,
+      "segment_count": 163,
+      "path_count": 40,
+      "max_path_length_plate_cells": 0.539982908832722,
+      "total_channel_length_plate_cells": 5.038135457137144
+    },
+    {
+      "owner_idx": [
+        102701,
+        106417
+      ],
+      "elapsed_seconds": 1.371061542071402,
+      "land_area_plate_cells2": 0.7180731095011246,
+      "domain_area_plate_cells2": 0.9660987854003906,
+      "node_count": 323,
+      "segment_count": 304,
+      "path_count": 47,
+      "max_path_length_plate_cells": 0.7045146261713571,
+      "total_channel_length_plate_cells": 9.570439952823449
+    },
+    {
+      "owner_idx": [
+        107706,
+        102704
+      ],
+      "elapsed_seconds": 0.6541054169647396,
+      "land_area_plate_cells2": 0.5263695625733669,
+      "domain_area_plate_cells2": 0.8926925659179688,
+      "node_count": 237,
+      "segment_count": 218,
+      "path_count": 49,
+      "max_path_length_plate_cells": 0.7430111173643601,
+      "total_channel_length_plate_cells": 6.299090304350832
+    },
+    {
+      "owner_idx": [
+        102738,
+        108964
+      ],
+      "elapsed_seconds": 0.21529058390296996,
+      "land_area_plate_cells2": 0.2910663289388021,
+      "domain_area_plate_cells2": 0.6919898986816406,
+      "node_count": 131,
+      "segment_count": 114,
+      "path_count": 34,
+      "max_path_length_plate_cells": 0.5237741959969971,
+      "total_channel_length_plate_cells": 3.4372056882217774
+    },
+    {
+      "owner_idx": [
+        107743,
+        105251
+      ],
+      "elapsed_seconds": 0.37282287515699863,
+      "land_area_plate_cells2": 0.3964184104295393,
+      "domain_area_plate_cells2": 1.0410919189453125,
+      "node_count": 188,
+      "segment_count": 165,
+      "path_count": 42,
+      "max_path_length_plate_cells": 0.4991080975397911,
+      "total_channel_length_plate_cells": 5.446941181911909
+    },
+    {
+      "owner_idx": [
+        102775,
+        101538
+      ],
+      "elapsed_seconds": 0.27380666695535183,
+      "land_area_plate_cells2": 0.31997462681361605,
+      "domain_area_plate_cells2": 1.1199111938476562,
+      "node_count": 155,
+      "segment_count": 139,
+      "path_count": 38,
+      "max_path_length_plate_cells": 0.4288552233093152,
+      "total_channel_length_plate_cells": 4.53320393419865
+    }
+  ]
+}

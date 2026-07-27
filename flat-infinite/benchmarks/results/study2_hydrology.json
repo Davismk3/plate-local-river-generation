@@ -1,0 +1,586 @@
+{
+  "pool_size": 150,
+  "total_links": 6748,
+  "order_counts": {
+    "1": 4698,
+    "2": 1716,
+    "3": 324,
+    "4": 10
+  },
+  "pooled_bifurcation_ratios": [
+    {
+      "order_low": 1,
+      "order_high": 2,
+      "n_low": 4698,
+      "n_high": 1716,
+      "ratio": 2.737762237762238
+    },
+    {
+      "order_low": 2,
+      "order_high": 3,
+      "n_low": 1716,
+      "n_high": 324,
+      "ratio": 5.296296296296297
+    },
+    {
+      "order_low": 3,
+      "order_high": 4,
+      "n_low": 324,
+      "n_high": 10,
+      "ratio": 32.4
+    }
+  ],
+  "per_plate_bifurcation_ratio_summary": {
+    "n": 211,
+    "mean": 4.386982643459248,
+    "median": 3.25,
+    "std": 3.2607143674946184,
+    "p95": 11.5,
+    "min": 1.3333333333333333,
+    "max": 20.0
+  },
+  "hacks_law": {
+    "n_plates": 134,
+    "h_exponent": 0.6642224173904943,
+    "C_coefficient": 0.8520552017628614,
+    "r_squared": 0.8586211550651929
+  },
+  "hack_points": [
+    {
+      "land_area_plate_cells2": 0.6239907536861137,
+      "max_path_length_plate_cells": 0.6592617261065075
+    },
+    {
+      "land_area_plate_cells2": 0.2928661997462866,
+      "max_path_length_plate_cells": 0.5190948810944008
+    },
+    {
+      "land_area_plate_cells2": 0.2943287367465328,
+      "max_path_length_plate_cells": 0.5444038836455104
+    },
+    {
+      "land_area_plate_cells2": 0.49829599333972463,
+      "max_path_length_plate_cells": 0.7610490751216126
+    },
+    {
+      "land_area_plate_cells2": 0.3008882247398238,
+      "max_path_length_plate_cells": 0.30599844752447325
+    },
+    {
+      "land_area_plate_cells2": 0.503557369596324,
+      "max_path_length_plate_cells": 0.6694289317723141
+    },
+    {
+      "land_area_plate_cells2": 0.34720248443362856,
+      "max_path_length_plate_cells": 0.5379697829864518
+    },
+    {
+      "land_area_plate_cells2": 0.31996113586866404,
+      "max_path_length_plate_cells": 0.5640255481325795
+    },
+    {
+      "land_area_plate_cells2": 0.3466515677708681,
+      "max_path_length_plate_cells": 0.3653688490968567
+    },
+    {
+      "land_area_plate_cells2": 0.0194088571942743,
+      "max_path_length_plate_cells": 0.05642213386123228
+    },
+    {
+      "land_area_plate_cells2": 0.444606656236392,
+      "max_path_length_plate_cells": 0.30351053259129046
+    },
+    {
+      "land_area_plate_cells2": 0.04961886535799148,
+      "max_path_length_plate_cells": 0.07421212745073766
+    },
+    {
+      "land_area_plate_cells2": 0.5607489519941747,
+      "max_path_length_plate_cells": 0.7889882433206676
+    },
+    {
+      "land_area_plate_cells2": 0.6672482157622859,
+      "max_path_length_plate_cells": 0.7645422852083043
+    },
+    {
+      "land_area_plate_cells2": 0.2931809154296218,
+      "max_path_length_plate_cells": 0.262173596921515
+    },
+    {
+      "land_area_plate_cells2": 0.47399015712958287,
+      "max_path_length_plate_cells": 0.5739127404590101
+    },
+    {
+      "land_area_plate_cells2": 0.008807358918366608,
+      "max_path_length_plate_cells": 0.06480046575150887
+    },
+    {
+      "land_area_plate_cells2": 0.7469008810994502,
+      "max_path_length_plate_cells": 0.6928599144525616
+    },
+    {
+      "land_area_plate_cells2": 0.8078878051395473,
+      "max_path_length_plate_cells": 0.8798210926118364
+    },
+    {
+      "land_area_plate_cells2": 0.35444013701077437,
+      "max_path_length_plate_cells": 0.37769334221327194
+    },
+    {
+      "land_area_plate_cells2": 0.2253425656682085,
+      "max_path_length_plate_cells": 0.27541405767450583
+    },
+    {
+      "land_area_plate_cells2": 0.47080149345661343,
+      "max_path_length_plate_cells": 0.5255045036339504
+    },
+    {
+      "land_area_plate_cells2": 0.5973414929423589,
+      "max_path_length_plate_cells": 0.9196264124241539
+    },
+    {
+      "land_area_plate_cells2": 0.46041388260690785,
+      "max_path_length_plate_cells": 0.4206601759398686
+    },
+    {
+      "land_area_plate_cells2": 0.4510921083975254,
+      "max_path_length_plate_cells": 0.48615930329401996
+    },
+    {
+      "land_area_plate_cells2": 0.5406675155260148,
+      "max_path_length_plate_cells": 0.6616973578758023
+    },
+    {
+      "land_area_plate_cells2": 0.5272170462425428,
+      "max_path_length_plate_cells": 0.6957497847278404
+    },
+    {
+      "land_area_plate_cells2": 0.21355270794670395,
+      "max_path_length_plate_cells": 0.2766840524712227
+    },
+    {
+      "land_area_plate_cells2": 0.458738538953993,
+      "max_path_length_plate_cells": 0.46116654780775856
+    },
+    {
+      "land_area_plate_cells2": 0.389524198299404,
+      "max_path_length_plate_cells": 0.331151518346517
+    },
+    {
+      "land_area_plate_cells2": 0.7702625070819418,
+      "max_path_length_plate_cells": 0.5004524246866308
+    },
+    {
+      "land_area_plate_cells2": 0.6677911978027028,
+      "max_path_length_plate_cells": 0.5888608902598331
+    },
+    {
+      "land_area_plate_cells2": 0.4890287060365358,
+      "max_path_length_plate_cells": 0.6229064629344911
+    },
+    {
+      "land_area_plate_cells2": 0.389518083059228,
+      "max_path_length_plate_cells": 0.5933578201307356
+    },
+    {
+      "land_area_plate_cells2": 0.8640114454903111,
+      "max_path_length_plate_cells": 0.8308630268981521
+    },
+    {
+      "land_area_plate_cells2": 0.2392818645615872,
+      "max_path_length_plate_cells": 0.5032547953835953
+    },
+    {
+      "land_area_plate_cells2": 0.4931921979453723,
+      "max_path_length_plate_cells": 0.6498560056721503
+    },
+    {
+      "land_area_plate_cells2": 0.6126302931287502,
+      "max_path_length_plate_cells": 0.617456240673338
+    },
+    {
+      "land_area_plate_cells2": 0.4126740064612599,
+      "max_path_length_plate_cells": 0.38965884332753703
+    },
+    {
+      "land_area_plate_cells2": 0.5252778739558547,
+      "max_path_length_plate_cells": 0.6318266255034438
+    },
+    {
+      "land_area_plate_cells2": 0.5175440281327458,
+      "max_path_length_plate_cells": 0.5776273437800559
+    },
+    {
+      "land_area_plate_cells2": 0.4964006482116949,
+      "max_path_length_plate_cells": 0.5929809521330196
+    },
+    {
+      "land_area_plate_cells2": 0.5429293550091026,
+      "max_path_length_plate_cells": 0.617164653961496
+    },
+    {
+      "land_area_plate_cells2": 0.2859694356681212,
+      "max_path_length_plate_cells": 0.378302159544014
+    },
+    {
+      "land_area_plate_cells2": 0.4462367836065864,
+      "max_path_length_plate_cells": 0.3993219553120776
+    },
+    {
+      "land_area_plate_cells2": 0.6117113978109656,
+      "max_path_length_plate_cells": 0.5895984909923895
+    },
+    {
+      "land_area_plate_cells2": 0.019666049970058004,
+      "max_path_length_plate_cells": 0.07372614400333181
+    },
+    {
+      "land_area_plate_cells2": 0.7332622975911919,
+      "max_path_length_plate_cells": 0.6628667875081058
+    },
+    {
+      "land_area_plate_cells2": 0.01696165197847764,
+      "max_path_length_plate_cells": 0.07573968471544901
+    },
+    {
+      "land_area_plate_cells2": 0.28438194779511855,
+      "max_path_length_plate_cells": 0.3550828801511436
+    },
+    {
+      "land_area_plate_cells2": 0.44558844078764753,
+      "max_path_length_plate_cells": 0.31061040116057426
+    },
+    {
+      "land_area_plate_cells2": 0.7592750835872751,
+      "max_path_length_plate_cells": 0.8114587592493296
+    },
+    {
+      "land_area_plate_cells2": 0.619329907742872,
+      "max_path_length_plate_cells": 0.6444971629723703
+    },
+    {
+      "land_area_plate_cells2": 0.6506158334700788,
+      "max_path_length_plate_cells": 0.6042332086212415
+    },
+    {
+      "land_area_plate_cells2": 0.3853777993168227,
+      "max_path_length_plate_cells": 0.4622912760909484
+    },
+    {
+      "land_area_plate_cells2": 0.364025216666129,
+      "max_path_length_plate_cells": 0.5175754300249658
+    },
+    {
+      "land_area_plate_cells2": 0.5620568284923881,
+      "max_path_length_plate_cells": 0.6192130179906674
+    },
+    {
+      "land_area_plate_cells2": 0.4401681932056223,
+      "max_path_length_plate_cells": 0.4461630261810617
+    },
+    {
+      "land_area_plate_cells2": 0.35760701769025366,
+      "max_path_length_plate_cells": 0.5244287247548646
+    },
+    {
+      "land_area_plate_cells2": 0.27043553925565444,
+      "max_path_length_plate_cells": 0.2528507556599059
+    },
+    {
+      "land_area_plate_cells2": 0.5946247508053284,
+      "max_path_length_plate_cells": 0.604873191589775
+    },
+    {
+      "land_area_plate_cells2": 0.37334660179162454,
+      "max_path_length_plate_cells": 0.4431453367550339
+    },
+    {
+      "land_area_plate_cells2": 0.5976829131577773,
+      "max_path_length_plate_cells": 0.5206551955992991
+    },
+    {
+      "land_area_plate_cells2": 0.2510696256354867,
+      "max_path_length_plate_cells": 0.3499794292853606
+    },
+    {
+      "land_area_plate_cells2": 0.002622112785418009,
+      "max_path_length_plate_cells": 0.032153090724012574
+    },
+    {
+      "land_area_plate_cells2": 0.5325305612848096,
+      "max_path_length_plate_cells": 0.5305041364676204
+    },
+    {
+      "land_area_plate_cells2": 0.5413089969537581,
+      "max_path_length_plate_cells": 0.5705507629006034
+    },
+    {
+      "land_area_plate_cells2": 0.013919612443895954,
+      "max_path_length_plate_cells": 0.026238690787553785
+    },
+    {
+      "land_area_plate_cells2": 0.8251307994705158,
+      "max_path_length_plate_cells": 0.7355598168021699
+    },
+    {
+      "land_area_plate_cells2": 0.30842085225183336,
+      "max_path_length_plate_cells": 0.3051171105400245
+    },
+    {
+      "land_area_plate_cells2": 0.4178252577027965,
+      "max_path_length_plate_cells": 0.5027783328489298
+    },
+    {
+      "land_area_plate_cells2": 0.571141064077571,
+      "max_path_length_plate_cells": 0.6306992809591482
+    },
+    {
+      "land_area_plate_cells2": 0.5059336922444124,
+      "max_path_length_plate_cells": 0.4378496599836255
+    },
+    {
+      "land_area_plate_cells2": 0.3983580188614366,
+      "max_path_length_plate_cells": 0.4888864994605419
+    },
+    {
+      "land_area_plate_cells2": 0.23898873275157057,
+      "max_path_length_plate_cells": 0.28502349130376803
+    },
+    {
+      "land_area_plate_cells2": 0.41580261807638536,
+      "max_path_length_plate_cells": 0.5078720199815399
+    },
+    {
+      "land_area_plate_cells2": 0.2992215156555176,
+      "max_path_length_plate_cells": 0.4006834649355015
+    },
+    {
+      "land_area_plate_cells2": 0.355241198484072,
+      "max_path_length_plate_cells": 0.3558951142498035
+    },
+    {
+      "land_area_plate_cells2": 0.37003964314736704,
+      "max_path_length_plate_cells": 0.8016516920812914
+    },
+    {
+      "land_area_plate_cells2": 0.4044798126963999,
+      "max_path_length_plate_cells": 0.4766009913367017
+    },
+    {
+      "land_area_plate_cells2": 0.432558928157406,
+      "max_path_length_plate_cells": 0.3825537743508376
+    },
+    {
+      "land_area_plate_cells2": 0.7115508952039353,
+      "max_path_length_plate_cells": 0.6353849121279195
+    },
+    {
+      "land_area_plate_cells2": 0.5208461628971414,
+      "max_path_length_plate_cells": 0.4643920087574943
+    },
+    {
+      "land_area_plate_cells2": 0.1605281421516731,
+      "max_path_length_plate_cells": 0.12255101953782944
+    },
+    {
+      "land_area_plate_cells2": 0.3484038154594284,
+      "max_path_length_plate_cells": 0.4234069898193581
+    },
+    {
+      "land_area_plate_cells2": 0.40578783310522976,
+      "max_path_length_plate_cells": 0.4088636596020527
+    },
+    {
+      "land_area_plate_cells2": 0.5271175958999187,
+      "max_path_length_plate_cells": 0.6044075721765632
+    },
+    {
+      "land_area_plate_cells2": 0.42288508816690173,
+      "max_path_length_plate_cells": 0.4453907225094843
+    },
+    {
+      "land_area_plate_cells2": 0.3949998500142381,
+      "max_path_length_plate_cells": 0.49397676359019915
+    },
+    {
+      "land_area_plate_cells2": 0.45287227713375516,
+      "max_path_length_plate_cells": 0.39484660941103755
+    },
+    {
+      "land_area_plate_cells2": 0.6183110512235367,
+      "max_path_length_plate_cells": 0.6234512969696212
+    },
+    {
+      "land_area_plate_cells2": 0.09014190630348909,
+      "max_path_length_plate_cells": 0.0606821907497429
+    },
+    {
+      "land_area_plate_cells2": 0.39947109654350416,
+      "max_path_length_plate_cells": 0.6249311858356965
+    },
+    {
+      "land_area_plate_cells2": 0.5646256816757876,
+      "max_path_length_plate_cells": 0.7296922022669418
+    },
+    {
+      "land_area_plate_cells2": 0.5546271810306844,
+      "max_path_length_plate_cells": 0.624955525861441
+    },
+    {
+      "land_area_plate_cells2": 0.2874844007402937,
+      "max_path_length_plate_cells": 0.44048543107903637
+    },
+    {
+      "land_area_plate_cells2": 0.4912154789734589,
+      "max_path_length_plate_cells": 0.6116509929512736
+    },
+    {
+      "land_area_plate_cells2": 0.5735677584657737,
+      "max_path_length_plate_cells": 0.5486671449617839
+    },
+    {
+      "land_area_plate_cells2": 0.3666415322538754,
+      "max_path_length_plate_cells": 0.5529191922862328
+    },
+    {
+      "land_area_plate_cells2": 0.5096584600624772,
+      "max_path_length_plate_cells": 0.6778312138575218
+    },
+    {
+      "land_area_plate_cells2": 0.40685878978056067,
+      "max_path_length_plate_cells": 0.5047242991277329
+    },
+    {
+      "land_area_plate_cells2": 0.42882149172470096,
+      "max_path_length_plate_cells": 0.5514841806920172
+    },
+    {
+      "land_area_plate_cells2": 0.29664254069243096,
+      "max_path_length_plate_cells": 0.4038956526409007
+    },
+    {
+      "land_area_plate_cells2": 0.4077754481646416,
+      "max_path_length_plate_cells": 0.4344587486654897
+    },
+    {
+      "land_area_plate_cells2": 0.3250029824121392,
+      "max_path_length_plate_cells": 0.6326385868805195
+    },
+    {
+      "land_area_plate_cells2": 0.507511093496738,
+      "max_path_length_plate_cells": 0.6030193135048287
+    },
+    {
+      "land_area_plate_cells2": 0.393605556065171,
+      "max_path_length_plate_cells": 0.5219256852666699
+    },
+    {
+      "land_area_plate_cells2": 0.5376914455200815,
+      "max_path_length_plate_cells": 0.6920576304266232
+    },
+    {
+      "land_area_plate_cells2": 0.2405351405734182,
+      "max_path_length_plate_cells": 0.2200826122635803
+    },
+    {
+      "land_area_plate_cells2": 0.5518858466585541,
+      "max_path_length_plate_cells": 0.554430228225656
+    },
+    {
+      "land_area_plate_cells2": 0.6841539888640784,
+      "max_path_length_plate_cells": 0.8228110888832018
+    },
+    {
+      "land_area_plate_cells2": 0.7087979324952131,
+      "max_path_length_plate_cells": 0.6586285856774271
+    },
+    {
+      "land_area_plate_cells2": 0.1382709680709852,
+      "max_path_length_plate_cells": 0.06596054167627398
+    },
+    {
+      "land_area_plate_cells2": 0.5076192652925532,
+      "max_path_length_plate_cells": 0.6069189739973706
+    },
+    {
+      "land_area_plate_cells2": 0.014784934030953571,
+      "max_path_length_plate_cells": 0.037788983594257045
+    },
+    {
+      "land_area_plate_cells2": 0.6765481428666548,
+      "max_path_length_plate_cells": 0.8810765947922258
+    },
+    {
+      "land_area_plate_cells2": 0.7577227002153728,
+      "max_path_length_plate_cells": 0.6296799176165048
+    },
+    {
+      "land_area_plate_cells2": 0.7411601564753179,
+      "max_path_length_plate_cells": 0.5961552912518036
+    },
+    {
+      "land_area_plate_cells2": 0.015187604594702708,
+      "max_path_length_plate_cells": 0.056055620219363674
+    },
+    {
+      "land_area_plate_cells2": 0.47844120592067646,
+      "max_path_length_plate_cells": 0.5029581386744237
+    },
+    {
+      "land_area_plate_cells2": 0.4571946192072277,
+      "max_path_length_plate_cells": 0.3424785029405275
+    },
+    {
+      "land_area_plate_cells2": 0.005646217942943674,
+      "max_path_length_plate_cells": 0.03801192282225415
+    },
+    {
+      "land_area_plate_cells2": 0.45967513533721865,
+      "max_path_length_plate_cells": 0.5615556850091321
+    },
+    {
+      "land_area_plate_cells2": 0.2717631137329527,
+      "max_path_length_plate_cells": 0.2646985866512704
+    },
+    {
+      "land_area_plate_cells2": 0.5648383549035573,
+      "max_path_length_plate_cells": 0.35282772440824994
+    },
+    {
+      "land_area_plate_cells2": 0.3645157488057344,
+      "max_path_length_plate_cells": 0.4891078262400556
+    },
+    {
+      "land_area_plate_cells2": 0.4417822409544983,
+      "max_path_length_plate_cells": 0.41602869993557706
+    },
+    {
+      "land_area_plate_cells2": 0.7303801445668021,
+      "max_path_length_plate_cells": 0.7134346158039487
+    },
+    {
+      "land_area_plate_cells2": 0.47542225590142106,
+      "max_path_length_plate_cells": 0.539982908832722
+    },
+    {
+      "land_area_plate_cells2": 0.7180731095011246,
+      "max_path_length_plate_cells": 0.7045146261713571
+    },
+    {
+      "land_area_plate_cells2": 0.5263695625733669,
+      "max_path_length_plate_cells": 0.7430111173643601
+    },
+    {
+      "land_area_plate_cells2": 0.2910663289388021,
+      "max_path_length_plate_cells": 0.5237741959969971
+    },
+    {
+      "land_area_plate_cells2": 0.3964184104295393,
+      "max_path_length_plate_cells": 0.4991080975397911
+    },
+    {
+      "land_area_plate_cells2": 0.31997462681361605,
+      "max_path_length_plate_cells": 0.4288552233093152
+    }
+  ]
+}

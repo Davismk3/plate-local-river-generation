@@ -1,0 +1,1237 @@
+{
+  "n_plates": 150,
+  "all_segment_count": 20823,
+  "total_bytes": 5919280,
+  "bytes_per_segment": 284.26643615233155,
+  "geometry_bytes": 1554336,
+  "geometry_breakdown": {
+    "segment_from_points": 333168,
+    "segment_to_points": 333168,
+    "segment_from_heights": 166584,
+    "segment_to_heights": 166584,
+    "node_points": 369888,
+    "node_heights": 184944
+  },
+  "topology_bytes": 410128,
+  "topology_breakdown": {
+    "plate_owner_indices": 1200,
+    "plate_segment_starts": 604,
+    "plate_region_starts": 604,
+    "plate_node_starts": 604,
+    "node_plate_slots": 92472,
+    "node_types": 23118,
+    "segment_from_lake_nodes": 20823,
+    "segment_to_lake_nodes": 20823,
+    "region_segment_ids": 83292,
+    "region_candidate_starts": 83296,
+    "region_candidate_segment_ids": 83292
+  },
+  "polygon_bytes": 3954816,
+  "polygon_breakdown": {
+    "plane_points": 1935760,
+    "plane_normals": 1935760,
+    "region_plane_starts": 83296
+  },
+  "per_plate_bytes_estimate": [
+    {
+      "owner_idx": [
+        105005,
+        106260
+      ],
+      "segment_count": 174,
+      "node_count": 188
+    },
+    {
+      "owner_idx": [
+        100037,
+        102547
+      ],
+      "segment_count": 173,
+      "node_count": 200
+    },
+    {
+      "owner_idx": [
+        105042,
+        108807
+      ],
+      "segment_count": 133,
+      "node_count": 155
+    },
+    {
+      "owner_idx": [
+        100074,
+        105094
+      ],
+      "segment_count": 191,
+      "node_count": 208
+    },
+    {
+      "owner_idx": [
+        105079,
+        101381
+      ],
+      "segment_count": 126,
+      "node_count": 153
+    },
+    {
+      "owner_idx": [
+        100111,
+        107641
+      ],
+      "segment_count": 209,
+      "node_count": 230
+    },
+    {
+      "owner_idx": [
+        105116,
+        103928
+      ],
+      "segment_count": 159,
+      "node_count": 178
+    },
+    {
+      "owner_idx": [
+        100148,
+        100215
+      ],
+      "segment_count": 133,
+      "node_count": 154
+    },
+    {
+      "owner_idx": [
+        105153,
+        106475
+      ],
+      "segment_count": 111,
+      "node_count": 130
+    },
+    {
+      "owner_idx": [
+        100185,
+        102762
+      ],
+      "segment_count": 4,
+      "node_count": 7
+    },
+    {
+      "owner_idx": [
+        105190,
+        109022
+      ],
+      "segment_count": 123,
+      "node_count": 152
+    },
+    {
+      "owner_idx": [
+        100222,
+        105309
+      ],
+      "segment_count": 15,
+      "node_count": 24
+    },
+    {
+      "owner_idx": [
+        105227,
+        101596
+      ],
+      "segment_count": 194,
+      "node_count": 205
+    },
+    {
+      "owner_idx": [
+        100259,
+        107856
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        105264,
+        104143
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        100296,
+        100430
+      ],
+      "segment_count": 206,
+      "node_count": 220
+    },
+    {
+      "owner_idx": [
+        105301,
+        106690
+      ],
+      "segment_count": 50,
+      "node_count": 65
+    },
+    {
+      "owner_idx": [
+        100333,
+        102977
+      ],
+      "segment_count": 149,
+      "node_count": 162
+    },
+    {
+      "owner_idx": [
+        105338,
+        109237
+      ],
+      "segment_count": 3,
+      "node_count": 5
+    },
+    {
+      "owner_idx": [
+        100370,
+        105524
+      ],
+      "segment_count": 260,
+      "node_count": 284
+    },
+    {
+      "owner_idx": [
+        105375,
+        101811
+      ],
+      "segment_count": 182,
+      "node_count": 187
+    },
+    {
+      "owner_idx": [
+        100407,
+        108071
+      ],
+      "segment_count": 171,
+      "node_count": 190
+    },
+    {
+      "owner_idx": [
+        105412,
+        104358
+      ],
+      "segment_count": 17,
+      "node_count": 23
+    },
+    {
+      "owner_idx": [
+        100444,
+        100645
+      ],
+      "segment_count": 208,
+      "node_count": 236
+    },
+    {
+      "owner_idx": [
+        105449,
+        106905
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        100481,
+        103192
+      ],
+      "segment_count": 191,
+      "node_count": 210
+    },
+    {
+      "owner_idx": [
+        105486,
+        109452
+      ],
+      "segment_count": 120,
+      "node_count": 138
+    },
+    {
+      "owner_idx": [
+        100518,
+        105739
+      ],
+      "segment_count": 204,
+      "node_count": 225
+    },
+    {
+      "owner_idx": [
+        105523,
+        102026
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        100555,
+        108286
+      ],
+      "segment_count": 173,
+      "node_count": 190
+    },
+    {
+      "owner_idx": [
+        105560,
+        104573
+      ],
+      "segment_count": 220,
+      "node_count": 236
+    },
+    {
+      "owner_idx": [
+        100592,
+        100860
+      ],
+      "segment_count": 105,
+      "node_count": 125
+    },
+    {
+      "owner_idx": [
+        105597,
+        107120
+      ],
+      "segment_count": 152,
+      "node_count": 174
+    },
+    {
+      "owner_idx": [
+        100629,
+        103407
+      ],
+      "segment_count": 200,
+      "node_count": 227
+    },
+    {
+      "owner_idx": [
+        105634,
+        109667
+      ],
+      "segment_count": 197,
+      "node_count": 218
+    },
+    {
+      "owner_idx": [
+        100666,
+        105954
+      ],
+      "segment_count": 187,
+      "node_count": 205
+    },
+    {
+      "owner_idx": [
+        105671,
+        102241
+      ],
+      "segment_count": 168,
+      "node_count": 179
+    },
+    {
+      "owner_idx": [
+        100703,
+        108501
+      ],
+      "segment_count": 172,
+      "node_count": 200
+    },
+    {
+      "owner_idx": [
+        105708,
+        104788
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        100740,
+        101075
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        105745,
+        107335
+      ],
+      "segment_count": 237,
+      "node_count": 259
+    },
+    {
+      "owner_idx": [
+        100777,
+        103622
+      ],
+      "segment_count": 152,
+      "node_count": 166
+    },
+    {
+      "owner_idx": [
+        105782,
+        109882
+      ],
+      "segment_count": 190,
+      "node_count": 203
+    },
+    {
+      "owner_idx": [
+        100814,
+        106169
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        105819,
+        102456
+      ],
+      "segment_count": 205,
+      "node_count": 220
+    },
+    {
+      "owner_idx": [
+        100851,
+        108716
+      ],
+      "segment_count": 195,
+      "node_count": 216
+    },
+    {
+      "owner_idx": [
+        105856,
+        105003
+      ],
+      "segment_count": 199,
+      "node_count": 223
+    },
+    {
+      "owner_idx": [
+        100888,
+        101290
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        105893,
+        107550
+      ],
+      "segment_count": 218,
+      "node_count": 235
+    },
+    {
+      "owner_idx": [
+        100925,
+        103837
+      ],
+      "segment_count": 163,
+      "node_count": 173
+    },
+    {
+      "owner_idx": [
+        105930,
+        100124
+      ],
+      "segment_count": 179,
+      "node_count": 198
+    },
+    {
+      "owner_idx": [
+        100962,
+        106384
+      ],
+      "segment_count": 91,
+      "node_count": 107
+    },
+    {
+      "owner_idx": [
+        105967,
+        102671
+      ],
+      "segment_count": 137,
+      "node_count": 161
+    },
+    {
+      "owner_idx": [
+        100999,
+        108931
+      ],
+      "segment_count": 202,
+      "node_count": 232
+    },
+    {
+      "owner_idx": [
+        106004,
+        105218
+      ],
+      "segment_count": 5,
+      "node_count": 8
+    },
+    {
+      "owner_idx": [
+        101036,
+        101505
+      ],
+      "segment_count": 181,
+      "node_count": 199
+    },
+    {
+      "owner_idx": [
+        106041,
+        107765
+      ],
+      "segment_count": 2,
+      "node_count": 3
+    },
+    {
+      "owner_idx": [
+        101073,
+        104052
+      ],
+      "segment_count": 57,
+      "node_count": 65
+    },
+    {
+      "owner_idx": [
+        106078,
+        100339
+      ],
+      "segment_count": 164,
+      "node_count": 196
+    },
+    {
+      "owner_idx": [
+        101110,
+        106599
+      ],
+      "segment_count": 179,
+      "node_count": 194
+    },
+    {
+      "owner_idx": [
+        106115,
+        102886
+      ],
+      "segment_count": 251,
+      "node_count": 270
+    },
+    {
+      "owner_idx": [
+        101147,
+        109146
+      ],
+      "segment_count": 179,
+      "node_count": 193
+    },
+    {
+      "owner_idx": [
+        106152,
+        105433
+      ],
+      "segment_count": 132,
+      "node_count": 152
+    },
+    {
+      "owner_idx": [
+        101184,
+        101720
+      ],
+      "segment_count": 196,
+      "node_count": 216
+    },
+    {
+      "owner_idx": [
+        106189,
+        107980
+      ],
+      "segment_count": 233,
+      "node_count": 251
+    },
+    {
+      "owner_idx": [
+        101221,
+        104267
+      ],
+      "segment_count": 188,
+      "node_count": 205
+    },
+    {
+      "owner_idx": [
+        106226,
+        100554
+      ],
+      "segment_count": 118,
+      "node_count": 130
+    },
+    {
+      "owner_idx": [
+        101258,
+        106814
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        106263,
+        103101
+      ],
+      "segment_count": 68,
+      "node_count": 81
+    },
+    {
+      "owner_idx": [
+        101295,
+        109361
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        106300,
+        105648
+      ],
+      "segment_count": 161,
+      "node_count": 178
+    },
+    {
+      "owner_idx": [
+        101332,
+        101935
+      ],
+      "segment_count": 147,
+      "node_count": 170
+    },
+    {
+      "owner_idx": [
+        106337,
+        108195
+      ],
+      "segment_count": 200,
+      "node_count": 224
+    },
+    {
+      "owner_idx": [
+        101369,
+        104482
+      ],
+      "segment_count": 164,
+      "node_count": 189
+    },
+    {
+      "owner_idx": [
+        106374,
+        100769
+      ],
+      "segment_count": 1,
+      "node_count": 2
+    },
+    {
+      "owner_idx": [
+        101406,
+        107029
+      ],
+      "segment_count": 213,
+      "node_count": 228
+    },
+    {
+      "owner_idx": [
+        106411,
+        103316
+      ],
+      "segment_count": 214,
+      "node_count": 236
+    },
+    {
+      "owner_idx": [
+        101443,
+        109576
+      ],
+      "segment_count": 1,
+      "node_count": 2
+    },
+    {
+      "owner_idx": [
+        106448,
+        105863
+      ],
+      "segment_count": 216,
+      "node_count": 226
+    },
+    {
+      "owner_idx": [
+        101480,
+        102150
+      ],
+      "segment_count": 129,
+      "node_count": 154
+    },
+    {
+      "owner_idx": [
+        106485,
+        108410
+      ],
+      "segment_count": 219,
+      "node_count": 238
+    },
+    {
+      "owner_idx": [
+        101517,
+        104697
+      ],
+      "segment_count": 184,
+      "node_count": 198
+    },
+    {
+      "owner_idx": [
+        106522,
+        100984
+      ],
+      "segment_count": 142,
+      "node_count": 170
+    },
+    {
+      "owner_idx": [
+        101554,
+        107244
+      ],
+      "segment_count": 209,
+      "node_count": 231
+    },
+    {
+      "owner_idx": [
+        106559,
+        103531
+      ],
+      "segment_count": 78,
+      "node_count": 96
+    },
+    {
+      "owner_idx": [
+        101591,
+        109791
+      ],
+      "segment_count": 147,
+      "node_count": 158
+    },
+    {
+      "owner_idx": [
+        106596,
+        106078
+      ],
+      "segment_count": 129,
+      "node_count": 153
+    },
+    {
+      "owner_idx": [
+        101628,
+        102365
+      ],
+      "segment_count": 184,
+      "node_count": 217
+    },
+    {
+      "owner_idx": [
+        106633,
+        108625
+      ],
+      "segment_count": 214,
+      "node_count": 225
+    },
+    {
+      "owner_idx": [
+        101665,
+        104912
+      ],
+      "segment_count": 155,
+      "node_count": 183
+    },
+    {
+      "owner_idx": [
+        106670,
+        101199
+      ],
+      "segment_count": 149,
+      "node_count": 172
+    },
+    {
+      "owner_idx": [
+        101702,
+        107459
+      ],
+      "segment_count": 194,
+      "node_count": 203
+    },
+    {
+      "owner_idx": [
+        106707,
+        103746
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        101739,
+        100033
+      ],
+      "segment_count": 158,
+      "node_count": 169
+    },
+    {
+      "owner_idx": [
+        106744,
+        106293
+      ],
+      "segment_count": 29,
+      "node_count": 43
+    },
+    {
+      "owner_idx": [
+        101776,
+        102580
+      ],
+      "segment_count": 72,
+      "node_count": 86
+    },
+    {
+      "owner_idx": [
+        106781,
+        108840
+      ],
+      "segment_count": 183,
+      "node_count": 205
+    },
+    {
+      "owner_idx": [
+        101813,
+        105127
+      ],
+      "segment_count": 213,
+      "node_count": 222
+    },
+    {
+      "owner_idx": [
+        106818,
+        101414
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        101850,
+        107674
+      ],
+      "segment_count": 115,
+      "node_count": 133
+    },
+    {
+      "owner_idx": [
+        106855,
+        103961
+      ],
+      "segment_count": 198,
+      "node_count": 223
+    },
+    {
+      "owner_idx": [
+        101887,
+        100248
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        106892,
+        106508
+      ],
+      "segment_count": 154,
+      "node_count": 169
+    },
+    {
+      "owner_idx": [
+        101924,
+        102795
+      ],
+      "segment_count": 200,
+      "node_count": 213
+    },
+    {
+      "owner_idx": [
+        106929,
+        109055
+      ],
+      "segment_count": 5,
+      "node_count": 8
+    },
+    {
+      "owner_idx": [
+        101961,
+        105342
+      ],
+      "segment_count": 114,
+      "node_count": 135
+    },
+    {
+      "owner_idx": [
+        106966,
+        101629
+      ],
+      "segment_count": 241,
+      "node_count": 259
+    },
+    {
+      "owner_idx": [
+        101998,
+        107889
+      ],
+      "segment_count": 197,
+      "node_count": 202
+    },
+    {
+      "owner_idx": [
+        107003,
+        104176
+      ],
+      "segment_count": 132,
+      "node_count": 154
+    },
+    {
+      "owner_idx": [
+        102035,
+        100463
+      ],
+      "segment_count": 194,
+      "node_count": 205
+    },
+    {
+      "owner_idx": [
+        107040,
+        106723
+      ],
+      "segment_count": 134,
+      "node_count": 157
+    },
+    {
+      "owner_idx": [
+        102072,
+        103010
+      ],
+      "segment_count": 136,
+      "node_count": 159
+    },
+    {
+      "owner_idx": [
+        107077,
+        109270
+      ],
+      "segment_count": 266,
+      "node_count": 282
+    },
+    {
+      "owner_idx": [
+        102109,
+        105557
+      ],
+      "segment_count": 142,
+      "node_count": 168
+    },
+    {
+      "owner_idx": [
+        107114,
+        101844
+      ],
+      "segment_count": 211,
+      "node_count": 235
+    },
+    {
+      "owner_idx": [
+        102146,
+        108104
+      ],
+      "segment_count": 181,
+      "node_count": 208
+    },
+    {
+      "owner_idx": [
+        107151,
+        104391
+      ],
+      "segment_count": 207,
+      "node_count": 232
+    },
+    {
+      "owner_idx": [
+        102183,
+        100678
+      ],
+      "segment_count": 158,
+      "node_count": 172
+    },
+    {
+      "owner_idx": [
+        107188,
+        106938
+      ],
+      "segment_count": 189,
+      "node_count": 208
+    },
+    {
+      "owner_idx": [
+        102220,
+        103225
+      ],
+      "segment_count": 169,
+      "node_count": 178
+    },
+    {
+      "owner_idx": [
+        107225,
+        109485
+      ],
+      "segment_count": 156,
+      "node_count": 160
+    },
+    {
+      "owner_idx": [
+        102257,
+        105772
+      ],
+      "segment_count": 38,
+      "node_count": 49
+    },
+    {
+      "owner_idx": [
+        107262,
+        102059
+      ],
+      "segment_count": 227,
+      "node_count": 251
+    },
+    {
+      "owner_idx": [
+        102294,
+        108319
+      ],
+      "segment_count": 263,
+      "node_count": 285
+    },
+    {
+      "owner_idx": [
+        107299,
+        104606
+      ],
+      "segment_count": 209,
+      "node_count": 222
+    },
+    {
+      "owner_idx": [
+        102331,
+        100893
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        107336,
+        107153
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        102368,
+        103440
+      ],
+      "segment_count": 2,
+      "node_count": 3
+    },
+    {
+      "owner_idx": [
+        107373,
+        109700
+      ],
+      "segment_count": 190,
+      "node_count": 208
+    },
+    {
+      "owner_idx": [
+        102405,
+        105987
+      ],
+      "segment_count": 1,
+      "node_count": 2
+    },
+    {
+      "owner_idx": [
+        107410,
+        102274
+      ],
+      "segment_count": 229,
+      "node_count": 240
+    },
+    {
+      "owner_idx": [
+        102442,
+        108534
+      ],
+      "segment_count": 210,
+      "node_count": 225
+    },
+    {
+      "owner_idx": [
+        107447,
+        104821
+      ],
+      "segment_count": 267,
+      "node_count": 287
+    },
+    {
+      "owner_idx": [
+        102479,
+        101108
+      ],
+      "segment_count": 2,
+      "node_count": 3
+    },
+    {
+      "owner_idx": [
+        107484,
+        107368
+      ],
+      "segment_count": 157,
+      "node_count": 173
+    },
+    {
+      "owner_idx": [
+        102516,
+        103655
+      ],
+      "segment_count": 186,
+      "node_count": 226
+    },
+    {
+      "owner_idx": [
+        107521,
+        109915
+      ],
+      "segment_count": 0,
+      "node_count": 0
+    },
+    {
+      "owner_idx": [
+        102553,
+        106202
+      ],
+      "segment_count": 1,
+      "node_count": 2
+    },
+    {
+      "owner_idx": [
+        107558,
+        102489
+      ],
+      "segment_count": 158,
+      "node_count": 176
+    },
+    {
+      "owner_idx": [
+        102590,
+        108749
+      ],
+      "segment_count": 80,
+      "node_count": 95
+    },
+    {
+      "owner_idx": [
+        107595,
+        105036
+      ],
+      "segment_count": 197,
+      "node_count": 227
+    },
+    {
+      "owner_idx": [
+        102627,
+        101323
+      ],
+      "segment_count": 129,
+      "node_count": 155
+    },
+    {
+      "owner_idx": [
+        107632,
+        107583
+      ],
+      "segment_count": 149,
+      "node_count": 166
+    },
+    {
+      "owner_idx": [
+        102664,
+        103870
+      ],
+      "segment_count": 220,
+      "node_count": 235
+    },
+    {
+      "owner_idx": [
+        107669,
+        100157
+      ],
+      "segment_count": 163,
+      "node_count": 177
+    },
+    {
+      "owner_idx": [
+        102701,
+        106417
+      ],
+      "segment_count": 304,
+      "node_count": 323
+    },
+    {
+      "owner_idx": [
+        107706,
+        102704
+      ],
+      "segment_count": 218,
+      "node_count": 237
+    },
+    {
+      "owner_idx": [
+        102738,
+        108964
+      ],
+      "segment_count": 114,
+      "node_count": 131
+    },
+    {
+      "owner_idx": [
+        107743,
+        105251
+      ],
+      "segment_count": 165,
+      "node_count": 188
+    },
+    {
+      "owner_idx": [
+        102775,
+        101538
+      ],
+      "segment_count": 139,
+      "node_count": 155
+    }
+  ]
+}
