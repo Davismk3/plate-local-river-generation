@@ -1,53 +1,124 @@
-# Plate-Local River Generation Algorithm (PL-RGA)
+# Plate-Local River Generation
 
-**Michael K. Davis III** — June 2026
+Deterministic, terrain-aware, downhill-flowing river networks for procedural worlds, generated lazily one tectonic plate at a time. This repository contains three dependency-free C++17 toy examples of the Plate-Local River Generation Algorithm (PL-RGA): a flat infinite world, a finite cube planet, and a finite sphere planet.
 
-This repository documents the Plate-Local River Generation Algorithm (PL-RGA), a deterministic procedural world-generation system that produces continents and terrain-aware, downhill-flowing river networks without precomputing the entire world environment. River geometry is generated lazily per continent, while terrain is evaluated pointwise on demand.
+Tectonic plate seeds define both the continuous terrain fields and a bounded geometric domain for each plate. Rivers are traced downhill on a low-resolution grid inside that domain, cached per plate the first time the plate is needed, and blended into the full-resolution terrain on demand. Neither the terrain nor the rivers need a global preprocessing pass.
 
-The PL-RGA is ${\color{red}\text{not specific to rivers}}$. The same core algorithm can be adapted for road networks, volcano placement, settlement placement, rare ore-vein placement, or other features that require a hard-constrained topology and/or direct control over continental placement. 
+The accompanying paper is [`davis2026_plate_local_river_generation.pdf`](davis2026_plate_local_river_generation.pdf). The flat infinite example is the implementation behind the paper's results.
 
-This repository is currently a WIP.
+## Examples:
 
-## Examples
+The following animations were generated with the three toy examples. Each shows an arrow key held down while rivers are generated and cached for newly reached plates.
 
-**Infinite flat world**
-![Infinite flat world](figures/infinite_flat.gif)
+<img src="assets/flat_infinite.gif" alt="Flat infinite world: panning while rivers generate for new plates" width="480">
+<img src="assets/cube_finite.gif" alt="Cube planet: rotating while rivers generate for the plate facing the camera" width="480">
+<img src="assets/sphere_finite.gif" alt="Sphere planet: rotating while rivers generate for the plate facing the camera" width="480">
 
-## (Anticipated) Repository Architecture
+## Requirements
 
-```
-plate-local-river-generation/
-├── davis2026_plate_local_river_generation.pdf
-├── README.md
-├── LICENSE
-├── figures/
-├── flat-infinite/
-│   ├── src/
-│   ├── examples/
-│   └── README.md
-├── cube-planet/
-│   ├── src/
-│   ├── examples/
-│   └── README.md
-└── sphere-planet/
-    ├── src/
-    ├── examples/
-    └── README.md
+- CMake 3.16 or newer
+- A C++17 compiler
+- macOS, for the interactive viewers (Cocoa). On other platforms the examples still build and export images or heightmaps.
+- zlib, only for the flat world's paper figure exporter
+
+## How To Use
+
+### Build and Run
+
+Each example is a standalone CMake project. From the example's directory:
+
+```sh
+cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+cmake --build build -j
+ctest --test-dir build --output-on-failure
 ```
 
-## Documentation
+Then run its viewer:
 
-The full technical summary is available in
-[davis2026_plate_local_river_generation.pdf](davis2026_plate_local_river_generation.pdf).
+```sh
+# flat_infinite/
+build/flat_infinite_cli
 
-NOTE: Converting this multi-month's long personal coding project into concise works with citations is a project on its own. I'm still piecing together what does or does not need citing/mentioning/elaborating. This is not the final draft and may have mistakes. If anything looks wrong or needs elaborating, let me know.
+# cube_finite/
+build/cube_finite
 
-## Additional Media
+# sphere_finite/
+build/sphere_finite
+```
 
-Youtube Video Showing Results: https://youtu.be/4Ai_13znvgg \
-Discord Server: https://discord.gg/fPAwD7x4va
+### Controls
 
-## License
+| Example | Keys |
+|---|---|
+| Flat infinite | Arrow keys pan across the plane, left-drag rotates the view, Esc closes |
+| Cube and sphere | Arrow keys rotate the planet, `P` toggles plate colouring, `R` toggles rivers, `+`/`-` zoom, Esc closes |
 
-This work is licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Run any executable with `--help` for its options, such as `--seed`, `--plates`, or `--resolution`. Without a window, `flat_infinite_cli --output terrain.pgm` exports a heightmap, and the planet examples accept `--snapshot FILE.ppm` to render a single frame.
+
+### Configuration
+
+All world, terrain, and river parameters are in `flat_infinite/include/flat_infinite/config.hpp` and `<cube|sphere>_finite/include/finite_world/config.hpp`. The two planet examples share identical code except for the surface selected in their `config.hpp`.
+
+### Lazy Per-Plate River Caches
+
+A plate's rivers are built the first time they are needed and then reused.
+
+- In the flat world, caches are built for the 3×3 plates around the view as it moves.
+- On the planets, only the plate facing the camera is built. Rotating back to a plate reuses its cache.
+
+Each viewer shows how many plates are cached.
+
+### Downhill Guarantee
+
+The plate borders used for terrain are warped with noise, while rivers are planned inside straight-edged geometric plate domains. The border margin for rivers (`river_border_distance` or `river_border_margin`) is set larger than the maximum warp displacement, so every river channel lies on its own plate. The final terrain therefore never rises along a channel. If you increase the warp amplitude (`plate_stretching` or `warp_amplitude`), increase the margin to match. Each example's tests check this guarantee.
+
+### Reproducing the Paper's Results
+
+`flat_infinite/build/flat_infinite_export` regenerates the paper's Figure 1 and its metrics. See `flat_infinite/metrics/README.md` for the exact command and what each measurement means.
+
+## Directory Architecture
+
+```text
+.
+├── davis2026_plate_local_river_generation.pdf   # the accompanying paper
+├── assets/                             # example animations used in this README
+│
+├── flat_infinite/                      # flat, infinite world (the paper's implementation)
+│   ├── include/flat_infinite/
+│   │   ├── config.hpp                  # all world, terrain, and river parameters
+│   │   ├── world.hpp                   # World: plates, terrain, river caches, height queries
+│   │   ├── geometry.hpp                # points, segments, polygons
+│   │   ├── noise.hpp                   # hashing and value/Brownian noise
+│   │   └── visualizer.hpp              # interactive viewer entry point
+│   ├── src/
+│   │   ├── terrain.cpp                 # plate seeds, pointwise fields, plate polygons and grids
+│   │   ├── rivers.cpp                  # river tracing, height adjustment, caching, river fields
+│   │   ├── geometry.cpp
+│   │   ├── noise.cpp
+│   │   ├── main.cpp                    # command-line tool: viewer or heightmap export
+│   │   ├── visualizer_macos.mm         # native macOS viewer
+│   │   └── visualizer_stub.cpp         # non-macOS placeholder
+│   ├── tools/export_figure.cpp         # paper figure and metrics exporter
+│   ├── metrics/                        # committed Figure 1, JSON summary, per-plate CSV
+│   └── tests/test_flat_infinite.cpp
+│
+├── cube_finite/                        # finite cube planet
+│   ├── include/finite_world/
+│   │   ├── config.hpp                  # parameters, including the surface (cube)
+│   │   ├── world.hpp                   # World: plates, terrain, charts, river caches
+│   │   ├── render.hpp                  # planet mesh, camera, software renderer
+│   │   ├── viewer.hpp                  # interactive viewer entry point
+│   │   ├── math.hpp                    # Vec2/Vec3, Mat3 rotations, 2D segments
+│   │   └── noise.hpp                   # 3D hashing and value/Brownian noise
+│   ├── src/
+│   │   ├── terrain.cpp                 # seeds, pointwise fields, plate charts and grids
+│   │   ├── rivers.cpp                  # river tracing, height adjustment, caching, river fields
+│   │   ├── render.cpp                  # perspective rasterizer with depth-tested rivers
+│   │   ├── noise.cpp
+│   │   ├── main.cpp                    # command-line tool: viewer or snapshot
+│   │   ├── viewer_macos.mm             # native macOS viewer
+│   │   └── viewer_stub.cpp             # non-macOS placeholder
+│   └── tests/test_finite_world.cpp     # plate-domain and downhill-guarantee checks
+│
+└── sphere_finite/                      # finite sphere planet (same layout as cube_finite/)
+```
