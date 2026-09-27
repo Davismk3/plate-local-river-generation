@@ -12,9 +12,21 @@ AI was used to refactor and add visuals to this repository.
 
 The following animations were generated with the three toy examples. Each shows an arrow key held down while rivers are generated and cached for newly reached plates.
 
-<img src="assets/flat_infinite.gif" alt="Flat infinite world: panning while rivers generate for new plates" width="480">
-<img src="assets/cube_finite.gif" alt="Cube planet: rotating while rivers generate for the plate facing the camera" width="480">
-<img src="assets/sphere_finite.gif" alt="Sphere planet: rotating while rivers generate for the plate facing the camera" width="480">
+<table>
+  <tr>
+    <td rowspan="2">
+      <img src="assets/flat_infinite.gif" alt="Flat infinite world: panning while rivers generate for new plates" width="480">
+    </td>
+    <td>
+      <img src="assets/cube_finite.gif" alt="Cube planet: rotating while rivers generate for the plate facing the camera" width="240">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/sphere_finite.gif" alt="Sphere planet: rotating while rivers generate for the plate facing the camera" width="240">
+    </td>
+  </tr>
+</table>
 
 ## Requirements
 
