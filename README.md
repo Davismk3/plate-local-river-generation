@@ -1,5 +1,7 @@
 # Plate-Local River Generation
 
+arXiv post: https://arxiv.org/pdf/2610.00301
+
 Deterministic, terrain-aware, downhill-flowing river networks for procedural worlds, generated lazily one tectonic plate at a time. This repository contains three dependency-free C++17 toy examples of the Plate-Local River Generation Algorithm (PLRGA): a flat infinite world, a finite cube planet, and a finite sphere planet.
 
 Tectonic plate seeds define both the continuous terrain fields and a bounded geometric domain for each plate. Rivers are traced downhill on a low-resolution grid inside that domain, cached per plate the first time the plate is needed, and blended into the full-resolution terrain on demand. Neither the terrain nor the rivers need a global preprocessing pass.
