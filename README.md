@@ -2,9 +2,9 @@
 
 arXiv post: https://arxiv.org/pdf/2610.00301
 
-YouTube Demo: [https://www.youtube.com/watch?v=Kf0SYhhWO3k](https://www.youtube.com/watch?v=4Ai_13znvgg)
+YouTube Demo 1: [https://www.youtube.com/watch?v=Kf0SYhhWO3k](https://www.youtube.com/watch?v=4Ai_13znvgg)
 
-YouTube Demo: [https://www.youtube.com/watch?v=Kf0SYhhWO3k](https://www.youtube.com/watch?v=Kf0SYhhWO3k)
+YouTube Demo 2: [https://www.youtube.com/watch?v=Kf0SYhhWO3k](https://www.youtube.com/watch?v=Kf0SYhhWO3k)
 
 Deterministic, terrain-aware, downhill-flowing river networks for procedural worlds, generated lazily one tectonic plate at a time. This repository contains three dependency-free C++17 toy examples of the Plate-Local River Generation Algorithm (PLRGA): a flat infinite world, a finite cube planet, and a finite sphere planet.
 
