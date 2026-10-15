@@ -12,7 +12,7 @@ Tectonic plate seeds define both the continuous terrain fields and a bounded geo
 
 The accompanying paper is [`davis2026_plate_local_river_generation.pdf`](davis2026_plate_local_river_generation.pdf). The flat infinite example is the implementation behind the paper's results.
 
-AI was used to refactor and add visuals to this repository.
+AI was used to refactor and add visuals to this repository. Note, this does NOT mean AI was used in developing *Voxelverse*, which is a separate project from this repository.
 
 ## Examples:
 
